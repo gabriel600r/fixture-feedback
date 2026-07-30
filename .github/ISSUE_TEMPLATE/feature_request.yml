@@ -1,0 +1,18 @@
+name: 💡 Una idea
+description: Algo que te gustaría que la app haga, o una liga que falta
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: ¿Qué te gustaría?
+      placeholder: "Que se pueda ver la tabla de goleadores de cada liga…"
+    validations:
+      required: true
+  - type: textarea
+    id: para_que
+    attributes:
+      label: ¿Para qué te serviría?
+      description: Ayuda a entender el problema real, no sólo la solución que imaginaste
+    validations:
+      required: false

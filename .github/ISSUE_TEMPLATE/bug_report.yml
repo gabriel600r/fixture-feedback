@@ -1,0 +1,48 @@
+name: 🐛 Algo no funciona
+description: Un partido que se ve mal, un aviso que no llega, algo que se rompe
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por tomarte el trabajo de contarlo. Con los dos primeros datos
+        alcanza para reproducir casi cualquier problema.
+  - type: input
+    id: version
+    attributes:
+      label: Versión de la app
+      description: Está en el menú lateral, abajo de todo (ej. 1.9.83)
+      placeholder: "1.9.83"
+    validations:
+      required: true
+  - type: input
+    id: partido
+    attributes:
+      label: ¿Qué partido o liga?
+      description: Si es de un partido puntual, cuál y de qué día
+      placeholder: "Racing vs Tigre, 1-ago, Liga Profesional"
+    validations:
+      required: false
+  - type: textarea
+    id: que_paso
+    attributes:
+      label: ¿Qué pasó?
+      description: Contalo con tus palabras. Si tenés una captura, pegala acá.
+      placeholder: "El partido decía 1-0 pero en la ficha no aparecía el gol…"
+    validations:
+      required: true
+  - type: input
+    id: telefono
+    attributes:
+      label: Teléfono y Android (opcional)
+      placeholder: "Samsung A54, Android 14"
+    validations:
+      required: false
+  - type: checkboxes
+    id: notificaciones
+    attributes:
+      label: Si es un problema de avisos
+      options:
+        - label: El equipo estaba marcado con la campanita
+        - label: La app tiene permiso de notificaciones
+        - label: Pasa con la app cerrada
