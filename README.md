@@ -103,5 +103,5 @@ La app **no pide cuenta ni registro**. Lo que elegís (equipos favoritos, ligas,
 ---
 
 <div align="center">
-  <sub>Hecho en Argentina por <a href="https://egeainc.com">EgeaINC</a> · <a href="mailto:info@egeainc.com">info@egeainc.com</a></sub>
+  <sub>Hecho en Argentina por <a href="https://egeainc.com">EgeaINC</a> · <a href="mailto:fixture@egeainc.com">fixture@egeainc.com</a></sub>
 </div>

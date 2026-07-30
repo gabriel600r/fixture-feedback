@@ -103,5 +103,5 @@ The app **asks for no account and no sign-up**. What you choose (favourite teams
 ---
 
 <div align="center">
-  <sub>Made in Argentina by <a href="https://egeainc.com">EgeaINC</a> · <a href="mailto:info@egeainc.com">info@egeainc.com</a></sub>
+  <sub>Made in Argentina by <a href="https://egeainc.com">EgeaINC</a> · <a href="mailto:fixture@egeainc.com">fixture@egeainc.com</a></sub>
 </div>

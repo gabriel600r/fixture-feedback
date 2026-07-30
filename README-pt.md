@@ -103,5 +103,5 @@ O app **não pede conta nem cadastro**. O que você escolhe (times favoritos, li
 ---
 
 <div align="center">
-  <sub>Feito na Argentina por <a href="https://egeainc.com">EgeaINC</a> · <a href="mailto:info@egeainc.com">info@egeainc.com</a></sub>
+  <sub>Feito na Argentina por <a href="https://egeainc.com">EgeaINC</a> · <a href="mailto:fixture@egeainc.com">fixture@egeainc.com</a></sub>
 </div>
