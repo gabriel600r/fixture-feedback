@@ -1,6 +1,63 @@
 # Historial de cambios
 
-Las versiones que llegaron a Google Play. Lo de arriba es lo más nuevo.
+Lo que fue llegando a la app. Lo de arriba es lo más nuevo.
+
+Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
+actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
+la fecha, sin número de versión.
+
+## 1.9.117 — 28 de agosto de 2026
+
+📺 **Ahora te decimos por dónde ver cada partido.** Elegís tu país una sola vez
+en Ajustes y, desde ahí, cada partido te muestra por qué canal lo pasan. Ya
+funciona en 18 países.
+
+- La app anda más liviana en teléfonos con menos memoria.
+
+## 18 de agosto de 2026 — sin actualizar
+
+Se sumaron la Primera División de Chile, la Liga Pro de Ecuador, la División
+Profesional de Paraguay y la Primera División de Bolivia, con el desarrollo del
+partido, las estadísticas y la tabla de posiciones. Empiezan destildadas: para
+verlas, tocá el embudo de arriba (Mis ligas).
+
+## 1.9.116 — 17 de agosto de 2026
+
+📊 **Quién llega mejor, antes de que empiece.** En la ficha de un partido que
+todavía no arrancó aparece cuánto pesa cada lado: local, empate y visitante, en
+porcentaje. Sale del historial reciente de los dos equipos, así que es una
+referencia y no un resultado cantado.
+
+## 15 de agosto de 2026 — sin actualizar
+
+Se sumaron la Liga 1 de Perú y la Primera A de Colombia, con formaciones,
+desarrollo del partido y tabla de posiciones.
+
+## 1.9.112 — 10 de agosto de 2026
+
+- El resumen del partido se lee de un vistazo: goles, tarjetas y cambios juntos
+  y en orden, lo último arriba. Cada tiempo cierra diciendo cómo iba el
+  marcador.
+- Los partidos de tus equipos aparecen aunque no sigas esa liga: seguís a un
+  equipo y lo ves juegue donde juegue.
+- El aviso de gol dice bien quién lo hizo. Antes, con muchos goles, podía
+  nombrar a un jugador del otro equipo. Y ahora también dice quién dio la
+  asistencia.
+
+## 7 de agosto de 2026 — sin actualizar
+
+Se sumó la Leagues Cup, que juegan los clubes de la MLS y de la Liga MX.
+
+## 1.9.106 — 3 de agosto de 2026
+
+- El aviso de que terminó el partido llega una sola vez.
+- La tarjeta del marcador se actualiza al doble de rápido, aparece sola cuando
+  llega un gol con la app cerrada y ya no desaparece un rato al abrir la app.
+- Cuando tocás un aviso, la app entra directo a la pantalla principal, sin la
+  pantalla de arranque y sin espera.
+- Elegís qué te avisan: goles, cuándo arranca, cuándo termina o el aviso de 30
+  minutos antes. Vale también para tus equipos favoritos.
+- Botón para compartir un partido con el marcador y los goles.
 
 ## 1.9.83 — 30 de julio de 2026
 

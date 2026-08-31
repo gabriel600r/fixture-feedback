@@ -11,8 +11,8 @@ body:
     id: version
     attributes:
       label: Versión de la app
-      description: Está en el menú lateral, abajo de todo (ej. 1.9.83)
-      placeholder: "1.9.83"
+      description: Está en el menú lateral, abajo de todo (ej. 1.9.117)
+      placeholder: "1.9.117"
     validations:
       required: true
   - type: input
@@ -20,7 +20,20 @@ body:
     attributes:
       label: ¿Qué partido o liga?
       description: Si es de un partido puntual, cuál y de qué día
-      placeholder: "Racing vs Tigre, 1-ago, Liga Profesional"
+      placeholder: "Racing vs Tigre, 15-ago, Liga Profesional"
+    validations:
+      required: false
+  - type: dropdown
+    id: idioma
+    attributes:
+      label: ¿En qué idioma tenés la app?
+      description: Sólo hace falta si lo que ves mal es un texto
+      options:
+        - Español
+        - English
+        - Português
+        - Italiano
+        - Français
     validations:
       required: false
   - type: textarea

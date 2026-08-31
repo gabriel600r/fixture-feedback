@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Ligas En Vivo</h1>
-  <p><b>Resultados en vivo, formaciones, tablas y llaves. 16 ligas y copas, sin publicidad.</b></p>
+  <p><b>Resultados en vivo, formaciones, tablas y llaves. 27 competencias, sin publicidad.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Disponible en Google Play" height="76"/>
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <b>🇦🇷 Español</b> | <a href="README-en.md">🇺🇸 English</a> | <a href="README-pt.md">🇧🇷 Português</a>
+  <b>🇦🇷 Español</b> | <a href="README-en.md">🇺🇸 English</a> | <a href="README-pt.md">🇧🇷 Português</a> | <a href="README-it.md">🇮🇹 Italiano</a> | <a href="README-fr.md">🇫🇷 Français</a>
 </div>
 
 <br/>
@@ -22,48 +22,81 @@
 
 ---
 
-## El Mundial terminó. El fútbol, no.
+## El fútbol no para. La app tampoco.
 
-Fixture Fútbol es la app para seguir las ligas y copas que te importan, desde el celular y sin publicidad. Elegís tus competencias y la app se ocupa del resto.
+Fixture Fútbol es la app para seguir las ligas y copas que te importan, desde el celular y sin publicidad. Elegís tus competencias y la app baja sólo esas.
 
-### ⚽ 16 ligas y copas
+### ⚽ 27 competencias
 
-**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina
+**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
 **Sudamérica** — Copa Libertadores, Copa Sudamericana
 **Brasil** — Brasileirão Série A, Copa do Brasil
-**Europa** — Champions League y Europa League (con sus fases previas), Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
-**Norteamérica** — MLS, Liga MX
+**Europa** — Champions League y Europa League, con sus fases previas · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
+**Norteamérica** — MLS, Liga MX, Leagues Cup, Concacaf Champions
+**Resto de Sudamérica** — Perú, Colombia, Chile, Ecuador, Paraguay, Bolivia
 
-### 📊 En vivo de verdad
+Algunas están fuera de temporada: quedan cargadas y aparecen solas cuando vuelven a jugar.
 
-Marcador y minuto en tiempo real. Mientras juega tu equipo, el partido queda **fijo en la barra de notificaciones**: lo mirás sin abrir la app.
+### 📊 En vivo, sin refrescar
+
+Marcador y minuto que se actualizan solos. Mientras juega tu equipo, el partido queda **fijo en la barra de notificaciones** con el último gol arriba: lo mirás sin abrir la app. Tocás la tarjeta y entrás derecho al partido.
 
 ### 🔔 Avisos que llegan
 
-Gol, arranque y final de los partidos que elegís. Marcás tus equipos favoritos y te enterás sin estar mirando.
+Gol, arranque y final de los partidos que elegís. El aviso de gol dice quién lo hizo y quién dio la asistencia. Y si el VAR lo anula, te avisamos que ese gol ya no está.
 
-### 📋 Lo que pasó en la cancha
+Elegís cuáles querés: podés pedir sólo los goles y nada más. Marcás tus equipos favoritos, o ponés la campanita en un partido suelto.
 
-Formaciones con la camiseta de cada jugador, goles con su autor y minuto, tarjetas, cambios, y la ficha del jugador con su nacionalidad.
+### 📋 El partido, de un vistazo
 
-### 🏆 Tablas y llaves
+Goles, tarjetas y cambios en una sola lista, con lo último arriba, y cada tiempo cierra diciendo cómo iba el marcador. Abajo del partido, el árbitro, el estadio, el día y el clima. Si hay penales, la tanda se ve como en la tele: quién pateó, quién metió y quién erró. Y lo compartís al grupo en dos toques.
 
-Posiciones de cada liga, y los cruces de eliminación armados solos a medida que se juegan.
+### 👕 Formaciones en la cancha
+
+Los once parados en el campo y los suplentes en el banco. Tocá a un jugador y ahí están su edad, altura, pie y nacionalidad.
+
+### 📈 Tablas de posiciones
+
+La tabla de cada liga, al día, con el torneo que se está jugando arriba de todo.
+
+### 🏆 Llaves de las copas
+
+Ida y vuelta, resultado global y quién pasa. Sin sacar cuentas.
+
+### 📅 Fechas e histórico
+
+El calendario va de cuatro días atrás a cuatro adelante. Y en la solapa Histórico está la temporada completa de cada liga, con buscador por equipo.
+
+### 📺 Por dónde ver cada partido
+
+Elegís tu país en Ajustes y cada partido te muestra por qué canal lo pasan. Ya funciona en 18 países.
+
+### 🎯 Sólo lo tuyo
+
+Tildás las competencias que te importan y el resto no se baja: menos datos, menos batería y la pantalla sin ruido. Sin cuenta ni registro: abrís y andás. Y los partidos de tus equipos favoritos aparecen siempre, sigas esa liga o no.
+
+### 🗂️ El torneo de selecciones, guardado
+
+Los 104 partidos que se jugaron en junio y julio quedaron adentro de la app: resultados, grupos, llaves y el campeón. Gratis, para volver cuando quieras.
+
+### 🌐 Idiomas
+
+La app está en español, inglés y portugués, y se elige en Ajustes. Italiano y francés están en camino.
 
 ---
 
 ## Capturas
 
 <div align="center">
-  <img src="./assets/captura1.png" width="24%"/>
-  <img src="./assets/captura2.png" width="24%"/>
-  <img src="./assets/captura3.png" width="24%"/>
-  <img src="./assets/captura4.png" width="24%"/>
+  <img src="./assets/es/captura1.png" width="24%"/>
+  <img src="./assets/es/captura2.png" width="24%"/>
+  <img src="./assets/es/captura3.png" width="24%"/>
+  <img src="./assets/es/captura4.png" width="24%"/>
   <br/><br/>
-  <img src="./assets/captura5.png" width="24%"/>
-  <img src="./assets/captura6.png" width="24%"/>
-  <img src="./assets/captura7.png" width="24%"/>
-  <img src="./assets/captura8.png" width="24%"/>
+  <img src="./assets/es/captura5.png" width="24%"/>
+  <img src="./assets/es/captura6.png" width="24%"/>
+  <img src="./assets/es/captura7.png" width="24%"/>
+  <img src="./assets/es/captura8.png" width="24%"/>
 </div>
 
 ---
@@ -75,6 +108,8 @@ Fixture nació para jugar en familia: un fixture del Mundial para seguir los par
 **Acá no hay publicidad, y no la va a haber.** No es una postura de marketing: arruina la experiencia. Abrís para ver un resultado y tenés que esquivar un cartel.
 
 La contra es que sin publicidad la app no se paga sola: los servidores y los datos en vivo salen plata todos los meses. La única forma de que esto siga es entre todos, con **un café por mes** desde la propia app. Solo es poco; entre muchos, alcanza.
+
+Los resultados en vivo, los avisos de tus equipos, las tablas, las llaves y el histórico son **gratis y van a seguir siéndolo**. El café suma las formaciones dibujadas en la cancha, la figura del partido, la planilla de cada jugador, las estadísticas finas y los avisos de todos los partidos. Y si querés, tu nombre aparece en el muro, adentro de la app.
 
 Gracias a los que ya pusieron uno. ⚽
 
@@ -88,8 +123,11 @@ Te quedó una versión vieja. Actualizá desde Google Play y vuelven las ligas, 
 **No me llegan las notificaciones.**
 Revisá que la app tenga permiso de notificaciones y que el equipo esté marcado con la campanita. En algunos teléfonos hay que sacar la app del ahorro de batería para que avise con la pantalla apagada.
 
+**No veo por qué canal pasan el partido.**
+Elegí tu país en Ajustes. Los canales están en 18 países por ahora; si el tuyo no está, contámelo en un ticket.
+
 **Falta un partido / una liga.**
-Contame cuál en un [ticket](../../issues/new/choose). Las 16 competencias de arriba son las que están hoy; se van sumando según lo que pidan.
+Contame cuál en un [ticket](../../issues/new/choose). Las 27 competencias de arriba son las que están hoy; se van sumando según lo que pidan.
 
 **¿Los datos son oficiales?**
 Vienen de un proveedor de datos deportivos. A veces tarda en confirmar un gol o el nombre del goleador; cuando el proveedor corrige, la app corrige sola.
