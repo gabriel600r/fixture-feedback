@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Ligas Ao Vivo</h1>
-  <p><b>Resultados ao vivo, escalações, tabelas e chaves. 25 ligas e copas, sem anúncios.</b></p>
+  <p><b>Resultados ao vivo, escalações, tabelas e chaves. 27 competições, sem anúncios.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" alt="Disponível no Google Play" height="76"/>
@@ -26,7 +26,7 @@
 
 Fixture Fútbol é o app para acompanhar as ligas e copas que importam para você, pelo celular e sem anúncios. Você escolhe suas competições e o app baixa só essas.
 
-### ⚽ 25 ligas e copas
+### ⚽ 27 competições
 
 **Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
 **América do Sul** — Copa Libertadores, Copa Sudamericana
@@ -127,7 +127,7 @@ Confira se o app tem permissão de notificações e se o time está marcado com 
 Escolha seu país em Ajustes. Os canais cobrem 18 países por enquanto; se o seu não estiver, me conte em um ticket.
 
 **Falta um jogo / uma liga.**
-Conte qual em um [ticket](../../issues/new/choose). As 25 acima são as que existem hoje; vão sendo somadas conforme o que pedirem.
+Conte qual em um [ticket](../../issues/new/choose). As 27 competições acima são as que existem hoje; vão sendo somadas conforme o que pedirem.
 
 **Os dados são oficiais?**
 Vêm de um provedor de dados esportivos. Às vezes ele demora a confirmar um gol ou o nome do goleador; quando o provedor corrige, o app corrige sozinho.
