@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol : Championnats En Direct</h1>
-  <p><b>Résultats en direct, compositions, classements et tableaux. 27 compétitions, sans publicité.</b></p>
+  <p><b>Résultats en direct, compositions, classements et tableaux. 25 championnats et coupes, sans publicité.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" height="76"/>
@@ -26,7 +26,7 @@
 
 Fixture Fútbol est l'appli pour suivre les championnats et les coupes qui vous intéressent, depuis votre téléphone et sans publicité. Vous choisissez vos compétitions et l'appli ne télécharge que celles-là.
 
-### ⚽ 27 compétitions
+### ⚽ 25 championnats et coupes
 
 **Argentine** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
 **Amérique du Sud** — Copa Libertadores, Copa Sudamericana
@@ -127,7 +127,7 @@ Vérifiez que l'appli a l'autorisation de notifications et que l'équipe est mar
 Choisissez votre pays dans les Réglages. Les chaînes couvrent 18 pays pour l'instant ; si le vôtre n'y est pas, dites-le-moi dans un ticket.
 
 **Il manque un match / un championnat.**
-Dites-moi lequel dans un [ticket](../../issues/new/choose). Les 27 compétitions ci-dessus sont celles disponibles aujourd'hui ; d'autres s'ajoutent selon les demandes.
+Dites-moi lequel dans un [ticket](../../issues/new/choose). Les 25 ci-dessus sont celles disponibles aujourd'hui ; d'autres s'ajoutent selon les demandes.
 
 **Les données sont-elles officielles ?**
 Elles viennent d'un fournisseur de données sportives. Il met parfois du temps à confirmer un but ou le nom du buteur ; quand le fournisseur corrige, l'appli se corrige toute seule.
