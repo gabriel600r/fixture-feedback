@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Live Football</h1>
-  <p><b>Live scores, line-ups, tables and brackets. 27 competitions, no ads.</b></p>
+  <p><b>Live scores, line-ups, tables and brackets. 29 competitions, no ads.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="76"/>
@@ -26,12 +26,12 @@
 
 Fixture Fútbol is the app for following the leagues and cups you care about, from your phone and without ads. You pick your competitions and the app downloads only those.
 
-### ⚽ 27 competitions
+### ⚽ 29 competitions
 
 **Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
 **South America** — Copa Libertadores, Copa Sudamericana
 **Brazil** — Brasileirão Série A, Copa do Brasil
-**Europe** — Champions League and Europa League, with their qualifying rounds · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
+**Europe** — Champions League, Europa League and Conference League, with their qualifying rounds · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
 **North America** — MLS, Liga MX, Leagues Cup, Concacaf Champions
 **Rest of South America** — Peru, Colombia, Chile, Ecuador, Paraguay, Bolivia
 
@@ -65,7 +65,7 @@ First leg, second leg, aggregate score and who goes through. No maths required.
 
 ### 📅 Fixtures and season history
 
-The calendar runs from four days back to four days ahead. And the History tab has each league's full season, with a search by team.
+The calendar runs from four days back to four days ahead. And in Today, swiping back past the oldest day, you reach History: each league's full season, with a search by team.
 
 ### 📺 Where to watch each match
 
@@ -81,22 +81,22 @@ The 104 matches played in June and July are still inside the app: results, group
 
 ### 🌐 Languages
 
-The app is in Spanish, English and Portuguese, chosen in Settings. Italian and French are on the way.
+The app is in English, Spanish, Portuguese, Italian and French, chosen in Settings.
 
 ---
 
 ## Screenshots
 
 <div align="center">
-  <img src="./assets/en/captura1.png" width="24%"/>
-  <img src="./assets/en/captura2.png" width="24%"/>
-  <img src="./assets/en/captura3.png" width="24%"/>
-  <img src="./assets/en/captura4.png" width="24%"/>
+  <img src="./assets/es/captura1.png" width="24%"/>
+  <img src="./assets/es/captura2.png" width="24%"/>
+  <img src="./assets/es/captura3.png" width="24%"/>
+  <img src="./assets/es/captura4.png" width="24%"/>
   <br/><br/>
-  <img src="./assets/en/captura5.png" width="24%"/>
-  <img src="./assets/en/captura6.png" width="24%"/>
-  <img src="./assets/en/captura7.png" width="24%"/>
-  <img src="./assets/en/captura8.png" width="24%"/>
+  <img src="./assets/es/captura5.png" width="24%"/>
+  <img src="./assets/es/captura6.png" width="24%"/>
+  <img src="./assets/es/captura7.png" width="24%"/>
+  <img src="./assets/es/captura8.png" width="24%"/>
 </div>
 
 ---
@@ -127,7 +127,7 @@ Check that the app has notification permission and that the team is starred with
 Pick your country in Settings. Channels cover 18 countries for now; if yours isn't there, tell me in a ticket.
 
 **A match or a league is missing.**
-Tell me which one in a [ticket](../../issues/new/choose). The 27 competitions above are the ones available today; more get added based on what people ask for.
+Tell me which one in a [ticket](../../issues/new/choose). The 29 competitions above are the ones available today; more get added based on what people ask for.
 
 **Is the data official?**
 It comes from a sports data provider. Sometimes it takes a while to confirm a goal or the scorer's name; when the provider corrects it, the app corrects itself.

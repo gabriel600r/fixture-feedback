@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Ligas En Vivo</h1>
-  <p><b>Resultados en vivo, formaciones, tablas y llaves. 27 competencias, sin publicidad.</b></p>
+  <p><b>Resultados en vivo, formaciones, tablas y llaves. 29 competencias, sin publicidad.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Disponible en Google Play" height="76"/>
@@ -26,12 +26,12 @@
 
 Fixture Fútbol es la app para seguir las ligas y copas que te importan, desde el celular y sin publicidad. Elegís tus competencias y la app baja sólo esas.
 
-### ⚽ 27 competencias
+### ⚽ 29 competencias
 
 **Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
 **Sudamérica** — Copa Libertadores, Copa Sudamericana
 **Brasil** — Brasileirão Série A, Copa do Brasil
-**Europa** — Champions League y Europa League, con sus fases previas · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
+**Europa** — Champions League, Europa League y Conference League, con sus fases previas · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
 **Norteamérica** — MLS, Liga MX, Leagues Cup, Concacaf Champions
 **Resto de Sudamérica** — Perú, Colombia, Chile, Ecuador, Paraguay, Bolivia
 
@@ -65,7 +65,7 @@ Ida y vuelta, resultado global y quién pasa. Sin sacar cuentas.
 
 ### 📅 Fechas e histórico
 
-El calendario va de cuatro días atrás a cuatro adelante. Y en la solapa Histórico está la temporada completa de cada liga, con buscador por equipo.
+El calendario va de cuatro días atrás a cuatro adelante. Y en Hoy, deslizando hacia atrás hasta pasar el día más viejo, está el Histórico: la temporada completa de cada liga, con buscador por equipo.
 
 ### 📺 Por dónde ver cada partido
 
@@ -81,7 +81,7 @@ Los 104 partidos que se jugaron en junio y julio quedaron adentro de la app: res
 
 ### 🌐 Idiomas
 
-La app está en español, inglés y portugués, y se elige en Ajustes. Italiano y francés están en camino.
+La app está en español, inglés, portugués, italiano y francés, y se elige en Ajustes.
 
 ---
 
@@ -127,7 +127,7 @@ Revisá que la app tenga permiso de notificaciones y que el equipo esté marcado
 Elegí tu país en Ajustes. Los canales están en 18 países por ahora; si el tuyo no está, contámelo en un ticket.
 
 **Falta un partido / una liga.**
-Contame cuál en un [ticket](../../issues/new/choose). Las 27 competencias de arriba son las que están hoy; se van sumando según lo que pidan.
+Contame cuál en un [ticket](../../issues/new/choose). Las 29 competencias de arriba son las que están hoy; se van sumando según lo que pidan.
 
 **¿Los datos son oficiales?**
 Vienen de un proveedor de datos deportivos. A veces tarda en confirmar un gol o el nombre del goleador; cuando el proveedor corrige, la app corrige sola.

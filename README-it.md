@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Campionati In Diretta</h1>
-  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 27 competizioni, senza pubblicità.</b></p>
+  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 29 competizioni, senza pubblicità.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/it_badge_web_generic.png" alt="Disponibile su Google Play" height="76"/>
@@ -26,12 +26,12 @@
 
 Fixture Fútbol è l'app per seguire i campionati e le coppe che ti interessano, dal telefono e senza pubblicità. Scegli le tue competizioni e l'app scarica solo quelle.
 
-### ⚽ 27 competizioni
+### ⚽ 29 competizioni
 
 **Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
 **Sudamerica** — Copa Libertadores, Copa Sudamericana
 **Brasile** — Brasileirão Série A, Copa do Brasil
-**Europa** — Champions League ed Europa League, con i loro turni preliminari · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
+**Europa** — Champions League, Europa League e Conference League, con i loro turni preliminari · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
 **Nordamerica** — MLS, Liga MX, Leagues Cup, Concacaf Champions
 **Resto del Sudamerica** — Perù, Colombia, Cile, Ecuador, Paraguay, Bolivia
 
@@ -65,7 +65,7 @@ Andata, ritorno, risultato complessivo e chi passa. Senza fare conti.
 
 ### 📅 Giornate e storico
 
-Il calendario va da quattro giorni indietro a quattro in avanti. E nella scheda Storico c'è la stagione completa di ogni campionato, con la ricerca per squadra.
+Il calendario va da quattro giorni indietro a quattro in avanti. E in Oggi, scorrendo indietro oltre il giorno più vecchio, c'è lo Storico: la stagione completa di ogni campionato, con la ricerca per squadra.
 
 ### 📺 Dove vedere ogni partita
 
@@ -81,22 +81,22 @@ Le 104 partite giocate a giugno e luglio sono rimaste dentro l'app: risultati, g
 
 ### 🌐 Lingue
 
-L'app è in spagnolo, inglese e portoghese, e si sceglie nelle Impostazioni. Italiano e francese sono in arrivo.
+L'app è in italiano, spagnolo, inglese, portoghese e francese, e si sceglie nelle Impostazioni.
 
 ---
 
 ## Schermate
 
 <div align="center">
-  <img src="./assets/en/captura1.png" width="24%"/>
-  <img src="./assets/en/captura2.png" width="24%"/>
-  <img src="./assets/en/captura3.png" width="24%"/>
-  <img src="./assets/en/captura4.png" width="24%"/>
+  <img src="./assets/es/captura1.png" width="24%"/>
+  <img src="./assets/es/captura2.png" width="24%"/>
+  <img src="./assets/es/captura3.png" width="24%"/>
+  <img src="./assets/es/captura4.png" width="24%"/>
   <br/><br/>
-  <img src="./assets/en/captura5.png" width="24%"/>
-  <img src="./assets/en/captura6.png" width="24%"/>
-  <img src="./assets/en/captura7.png" width="24%"/>
-  <img src="./assets/en/captura8.png" width="24%"/>
+  <img src="./assets/es/captura5.png" width="24%"/>
+  <img src="./assets/es/captura6.png" width="24%"/>
+  <img src="./assets/es/captura7.png" width="24%"/>
+  <img src="./assets/es/captura8.png" width="24%"/>
 </div>
 
 ---
@@ -127,7 +127,7 @@ Controlla che l'app abbia il permesso per le notifiche e che la squadra sia segn
 Scegli il tuo Paese nelle Impostazioni. I canali coprono 18 Paesi per ora; se il tuo non c'è, scrivimelo in una segnalazione.
 
 **Manca una partita / un campionato.**
-Dimmi quale in una [segnalazione](../../issues/new/choose). Le 27 competizioni qui sopra sono quelle disponibili oggi; se ne aggiungono altre in base a ciò che chiedete.
+Dimmi quale in una [segnalazione](../../issues/new/choose). Le 29 competizioni qui sopra sono quelle disponibili oggi; se ne aggiungono altre in base a ciò che chiedete.
 
 **I dati sono ufficiali?**
 Arrivano da un fornitore di dati sportivi. A volte ci mette un po' a confermare un gol o il nome del marcatore; quando il fornitore corregge, l'app si corregge da sola.

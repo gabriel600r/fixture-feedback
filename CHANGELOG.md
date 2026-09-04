@@ -6,6 +6,25 @@ Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
 actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
 la fecha, sin número de versión.
 
+## 1.9.118 — 3 de septiembre de 2026
+
+🥅 **El gol se ve al toque.** Cuando cae un gol, la ficha del partido lo muestra
+al instante, aunque todavía no sepamos quién lo hizo. El nombre del jugador
+puede tardar hasta un minuto en llegar —lo manda el proveedor, no el aviso— y
+cuando llega aparece con una animación suave, sin saltos.
+
+🏆 **La solapa "Tabla" ahora se llama "Torneos".** Adentro está el listado de
+competencias con su estado, y de cada una salen su tabla de posiciones y su
+cuadro de llaves. "Tabla" nombraba una de las tres cosas que hay ahí.
+
+- Tocá el nombre de una liga —en la lista de partidos o en la ficha— y vas
+  derecho a su tabla.
+- Las tandas de penales se ven en el orden real: quién pateó primero, quién
+  metió y quién erró.
+- El histórico y la lista de competencias se agrupan por actividad: en vivo,
+  hoy, recién jugado, esta semana.
+- Italiano y francés completos, también en el histórico y en las tablas.
+
 ## 1.9.117 — 28 de agosto de 2026
 
 📺 **Ahora te decimos por dónde ver cada partido.** Elegís tu país una sola vez
@@ -19,7 +38,7 @@ funciona en 18 países.
 Se sumaron la Primera División de Chile, la Liga Pro de Ecuador, la División
 Profesional de Paraguay y la Primera División de Bolivia, con el desarrollo del
 partido, las estadísticas y la tabla de posiciones. Empiezan destildadas: para
-verlas, tocá el embudo de arriba (Mis ligas).
+verlas, entrá a la solapa Ligas, abajo a la derecha.
 
 ## 1.9.116 — 17 de agosto de 2026
 

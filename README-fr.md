@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol : Championnats En Direct</h1>
-  <p><b>Résultats en direct, compositions, classements et tableaux. 27 compétitions, sans publicité.</b></p>
+  <p><b>Résultats en direct, compositions, classements et tableaux. 29 compétitions, sans publicité.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" height="76"/>
@@ -26,12 +26,12 @@
 
 Fixture Fútbol est l'appli pour suivre les championnats et les coupes qui vous intéressent, depuis votre téléphone et sans publicité. Vous choisissez vos compétitions et l'appli ne télécharge que celles-là.
 
-### ⚽ 27 compétitions
+### ⚽ 29 compétitions
 
 **Argentine** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
 **Amérique du Sud** — Copa Libertadores, Copa Sudamericana
 **Brésil** — Brasileirão Série A, Copa do Brasil
-**Europe** — Ligue des champions et Ligue Europa, avec leurs tours préliminaires · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
+**Europe** — Ligue des champions, Ligue Europa et Ligue Europa Conférence, avec leurs tours préliminaires · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
 **Amérique du Nord** — MLS, Liga MX, Leagues Cup, Concacaf Champions
 **Reste de l'Amérique du Sud** — Pérou, Colombie, Chili, Équateur, Paraguay, Bolivie
 
@@ -65,7 +65,7 @@ Aller, retour, score cumulé et qui se qualifie. Sans calcul.
 
 ### 📅 Journées et historique
 
-Le calendrier va de quatre jours en arrière à quatre jours en avant. Et dans l'onglet Historique se trouve la saison complète de chaque championnat, avec une recherche par équipe.
+Le calendrier va de quatre jours en arrière à quatre jours en avant. Et dans Aujourd'hui, en balayant vers l'arrière au-delà du jour le plus ancien, il y a l'Historique : la saison complète de chaque championnat, avec une recherche par équipe.
 
 ### 📺 Où regarder chaque match
 
@@ -81,22 +81,22 @@ Les 104 matchs joués en juin et juillet sont restés dans l'appli : résultats,
 
 ### 🌐 Langues
 
-L'appli est en espagnol, en anglais et en portugais, au choix dans les Réglages. L'italien et le français arrivent bientôt.
+L'appli est en français, en espagnol, en anglais, en portugais et en italien, au choix dans les Réglages.
 
 ---
 
 ## Captures d'écran
 
 <div align="center">
-  <img src="./assets/en/captura1.png" width="24%"/>
-  <img src="./assets/en/captura2.png" width="24%"/>
-  <img src="./assets/en/captura3.png" width="24%"/>
-  <img src="./assets/en/captura4.png" width="24%"/>
+  <img src="./assets/es/captura1.png" width="24%"/>
+  <img src="./assets/es/captura2.png" width="24%"/>
+  <img src="./assets/es/captura3.png" width="24%"/>
+  <img src="./assets/es/captura4.png" width="24%"/>
   <br/><br/>
-  <img src="./assets/en/captura5.png" width="24%"/>
-  <img src="./assets/en/captura6.png" width="24%"/>
-  <img src="./assets/en/captura7.png" width="24%"/>
-  <img src="./assets/en/captura8.png" width="24%"/>
+  <img src="./assets/es/captura5.png" width="24%"/>
+  <img src="./assets/es/captura6.png" width="24%"/>
+  <img src="./assets/es/captura7.png" width="24%"/>
+  <img src="./assets/es/captura8.png" width="24%"/>
 </div>
 
 ---
@@ -127,7 +127,7 @@ Vérifiez que l'appli a l'autorisation de notifications et que l'équipe est mar
 Choisissez votre pays dans les Réglages. Les chaînes couvrent 18 pays pour l'instant ; si le vôtre n'y est pas, dites-le-moi dans un ticket.
 
 **Il manque un match / un championnat.**
-Dites-moi lequel dans un [ticket](../../issues/new/choose). Les 27 compétitions ci-dessus sont celles disponibles aujourd'hui ; d'autres s'ajoutent selon les demandes.
+Dites-moi lequel dans un [ticket](../../issues/new/choose). Les 29 compétitions ci-dessus sont celles disponibles aujourd'hui ; d'autres s'ajoutent selon les demandes.
 
 **Les données sont-elles officielles ?**
 Elles viennent d'un fournisseur de données sportives. Il met parfois du temps à confirmer un but ou le nom du buteur ; quand le fournisseur corrige, l'appli se corrige toute seule.
