@@ -6,6 +6,76 @@ Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
 actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
 la fecha, sin número de versión.
 
+## 1.9.123 — 28 de septiembre de 2026
+
+🔮 **Simulá cómo termina la tabla.** Tocá "Simular" en la tabla, cargá los
+resultados que faltan y mirá cómo quedaría cada equipo. Los empates se ordenan
+con el reglamento de desempate de cada liga.
+
+- Tu simulación se guarda sola y se va cumpliendo con los resultados reales.
+  Podés mandar la imagen de la tabla a quien quieras. Con el café guardás una
+  por cada competencia.
+
+📊 **Las tablas te dicen qué significa cada puesto.** Una franja de color marca
+quién va a la Libertadores, a la Champions, a los playoffs, al ascenso o al
+descenso, con la leyenda abajo. Si está punteada, todavía puede cambiar según
+otros resultados.
+
+📱 **El widget, más completo.**
+
+- Antes del partido, en qué canal lo pasan en tu país y en qué puesto de la
+  tabla llega cada equipo.
+- En vivo salta solo al partido de tu equipo, se ilumina y marca los goles.
+- Al terminar, la posición nueva de cada equipo y cuánto subió o bajó, y pone
+  solo el siguiente partido.
+- Los días sin partido, los próximos de tus equipos, con flechas y banderas.
+
+- Al actualizar, la app te cuenta qué cambió.
+- Los países y las fases previas de las copas se muestran en el idioma de la
+  app.
+
+## Septiembre de 2026 — sin actualizar
+
+Se sumó la Supercopa Internacional, la que juegan el campeón del Trofeo de
+Campeones y el primero de la tabla anual de la Liga Profesional.
+
+## 1.9.121 — 21 de septiembre de 2026
+
+📱 **El widget: tus partidos en la pantalla de inicio**, en vivo y sin abrir la
+app. Marcador, minuto, goles y expulsiones, y salta solo al partido donde
+acaba de pasar algo. Se agrega desde el menú. Gratis con tu equipo; con el
+café, todos tus favoritos.
+
+- Tocás un cruce y se abre la llave entera: ida, vuelta, global y quién pasa.
+  Y el cuadro se completa solo con los que ya ganaron.
+- La tabla ya no marca como clasificado a quien todavía no lo está.
+- Abre más rápido y ya no se cierra sola en un partido en vivo.
+
+## 1.9.120 — 14 de septiembre de 2026
+
+🏆 **Las copas tienen solapa "Llaves"**: el cuadro completo hasta la final, con
+ida y vuelta, global y penales.
+
+🔍 **Buscá a cualquier jugador** desde la lupa, y tocá un goleador para ver su
+ficha.
+
+- En la formación, deslizá sobre la cancha para ver nacionalidad, edad,
+  altura, pie hábil o goles.
+- Tocá la ⓘ de una competencia y te contamos qué es y qué está pasando.
+- Si anulan un gol, el aviso se corrige solo.
+- Más liviana y fluida, con banderas nítidas en todos los teléfonos.
+
+## 8 de septiembre de 2026 — sin actualizar
+
+Se sumaron dos copas: la Coppa Italia y la EFL Cup, la Copa de la Liga de
+Inglaterra.
+
+## 7 de septiembre de 2026 — sin actualizar
+
+Cada torneo tiene tres solapas: la tabla, que además de la general se puede
+ver sólo de local o sólo de visitante; los partidos del torneo entero; y los
+goleadores.
+
 ## 1.9.118 — 3 de septiembre de 2026
 
 🥅 **El gol se ve al toque.** Cuando cae un gol, la ficha del partido lo muestra

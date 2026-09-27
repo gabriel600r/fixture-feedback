@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Live Football</h1>
-  <p><b>Live scores, line-ups, tables and brackets. 29 competitions, no ads.</b></p>
+  <p><b>Live scores, line-ups, tables and brackets. 32 competitions, no ads.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="76"/>
@@ -12,6 +12,8 @@
 
 <div align="center">
   <a href="README.md">🇦🇷 Español</a> | <b>🇺🇸 English</b> | <a href="README-pt.md">🇧🇷 Português</a> | <a href="README-it.md">🇮🇹 Italiano</a> | <a href="README-fr.md">🇫🇷 Français</a>
+  <br/>
+  <a href="README-de.md">🇩🇪 Deutsch</a> | <a href="README-nl.md">🇳🇱 Nederlands</a> | <a href="README-tr.md">🇹🇷 Türkçe</a> | <a href="README-ar.md">🇸🇦 العربية</a> | <a href="README-hi.md">🇮🇳 हिन्दी</a> | <a href="README-ja.md">🇯🇵 日本語</a> | <a href="README-ko.md">🇰🇷 한국어</a>
 </div>
 
 <br/>
@@ -26,12 +28,12 @@
 
 Fixture Fútbol is the app for following the leagues and cups you care about, from your phone and without ads. You pick your competitions and the app downloads only those.
 
-### ⚽ 29 competitions
+### ⚽ 32 competitions
 
-**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
+**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina, Supercopa Internacional
 **South America** — Copa Libertadores, Copa Sudamericana
 **Brazil** — Brasileirão Série A, Copa do Brasil
-**Europe** — Champions League, Europa League and Conference League, with their qualifying rounds · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
+**Europe** — Champions League, Europa League and Conference League, with their qualifying rounds · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Coppa Italia, EFL Cup
 **North America** — MLS, Liga MX, Leagues Cup, Concacaf Champions
 **Rest of South America** — Peru, Colombia, Chile, Ecuador, Paraguay, Bolivia
 
@@ -40,6 +42,14 @@ Some are out of season: they stay loaded and show up on their own once they're p
 ### 📊 Live, no refreshing
 
 Score and minute update on their own. While your team is playing, the match stays **pinned to your notification bar** with the latest goal on top: you check it without opening the app. Tap the card and you land straight in the match.
+
+### 🔮 New: simulate how it ends
+
+Fill in the results still to come and see how the table would finish, using each league's own tiebreak rules. Your simulation plays itself out as the real results come in, and you can share it as an image.
+
+### 📱 The widget on your home screen
+
+Before the match, the channel and each team's place in the table. Live, it lights up and flags the goals. At full time, where things stand in the table and the next match. On days with no match, your teams' upcoming games, with arrows and flags. You add it from the app's menu.
 
 ### 🔔 Alerts that actually arrive
 
@@ -57,11 +67,11 @@ The eleven laid out on the field and the substitutes on the bench. Tap a player 
 
 ### 📈 League tables
 
-Every league's table, up to date, with the tournament currently being played at the top.
+Every league's table, up to date, with a color stripe marking who's headed for the Champions League or the Libertadores, promotion, the playoffs or relegation. And top scorers in most competitions.
 
 ### 🏆 Cup brackets
 
-First leg, second leg, aggregate score and who goes through. No maths required.
+First leg, second leg, aggregate score and who goes through. No maths required. Tap a tie and the whole bracket opens, and the draw fills itself in with the teams that already went through.
 
 ### 📅 Fixtures and season history
 
@@ -69,7 +79,7 @@ The calendar runs from four days back to four days ahead. And in Today, swiping 
 
 ### 📺 Where to watch each match
 
-Pick your country in Settings and every match shows you which channel is airing it. It already works in 18 countries.
+Pick your country in Settings and every match shows you which channel is airing it. It already works in 17 countries.
 
 ### 🎯 Only what's yours
 
@@ -88,15 +98,14 @@ The app is in English, Spanish, Portuguese, Italian and French, chosen in Settin
 ## Screenshots
 
 <div align="center">
-  <img src="./assets/es/captura1.png" width="24%"/>
-  <img src="./assets/es/captura2.png" width="24%"/>
-  <img src="./assets/es/captura3.png" width="24%"/>
-  <img src="./assets/es/captura4.png" width="24%"/>
+  <img src="./assets/en/captura1.png" width="24%"/>
+  <img src="./assets/en/captura2.png" width="24%"/>
+  <img src="./assets/en/captura3.png" width="24%"/>
+  <img src="./assets/en/captura4.png" width="24%"/>
   <br/><br/>
-  <img src="./assets/es/captura5.png" width="24%"/>
-  <img src="./assets/es/captura6.png" width="24%"/>
-  <img src="./assets/es/captura7.png" width="24%"/>
-  <img src="./assets/es/captura8.png" width="24%"/>
+  <img src="./assets/en/captura5.png" width="24%"/>
+  <img src="./assets/en/captura6.png" width="24%"/>
+  <img src="./assets/en/captura7.png" width="24%"/>
 </div>
 
 ---
@@ -109,7 +118,7 @@ Fixture started as a family thing: a World Cup fixture list so we could follow t
 
 The downside is that without ads the app doesn't pay for itself: the servers and the live data cost money every month. The only way this keeps going is together, with **a coffee a month** from inside the app. On its own it's little; between many, it's enough.
 
-Live scores, alerts for your teams, tables, brackets and the season history are **free and will stay free**. The coffee adds the line-ups drawn on the pitch, the player of the match, each player's stat sheet, the fine-grained statistics and alerts for every match. And if you want, your name appears on the wall inside the app.
+Live scores, alerts for your teams, tables, brackets, the simulator and the season history are **free and will stay free**. The coffee adds the line-ups drawn on the pitch, the player of the match, each player's stat sheet, the fine-grained statistics, alerts for every match, the widget with all your teams and one saved simulation per competition. And if you want, your name appears on the wall inside the app.
 
 Thanks to everyone who has already bought one. ⚽
 
@@ -124,10 +133,10 @@ You're on an old version. Update from Google Play and the leagues, live matches 
 Check that the app has notification permission and that the team is starred with the bell. On some phones you have to take the app out of battery saving so it can alert you with the screen off.
 
 **I can't see which channel is showing the match.**
-Pick your country in Settings. Channels cover 18 countries for now; if yours isn't there, tell me in a ticket.
+Pick your country in Settings. Channels cover 17 countries for now; if yours isn't there, tell me in a ticket.
 
 **A match or a league is missing.**
-Tell me which one in a [ticket](../../issues/new/choose). The 29 competitions above are the ones available today; more get added based on what people ask for.
+Tell me which one in a [ticket](../../issues/new/choose). The 32 competitions above are the ones available today; more get added based on what people ask for.
 
 **Is the data official?**
 It comes from a sports data provider. Sometimes it takes a while to confirm a goal or the scorer's name; when the provider corrects it, the app corrects itself.

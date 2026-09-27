@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Campionati In Diretta</h1>
-  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 29 competizioni, senza pubblicità.</b></p>
+  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 32 competizioni, senza pubblicità.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/it_badge_web_generic.png" alt="Disponibile su Google Play" height="76"/>
@@ -12,6 +12,8 @@
 
 <div align="center">
   <a href="README.md">🇦🇷 Español</a> | <a href="README-en.md">🇺🇸 English</a> | <a href="README-pt.md">🇧🇷 Português</a> | <b>🇮🇹 Italiano</b> | <a href="README-fr.md">🇫🇷 Français</a>
+  <br/>
+  <a href="README-de.md">🇩🇪 Deutsch</a> | <a href="README-nl.md">🇳🇱 Nederlands</a> | <a href="README-tr.md">🇹🇷 Türkçe</a> | <a href="README-ar.md">🇸🇦 العربية</a> | <a href="README-hi.md">🇮🇳 हिन्दी</a> | <a href="README-ja.md">🇯🇵 日本語</a> | <a href="README-ko.md">🇰🇷 한국어</a>
 </div>
 
 <br/>
@@ -26,12 +28,12 @@
 
 Fixture Fútbol è l'app per seguire i campionati e le coppe che ti interessano, dal telefono e senza pubblicità. Scegli le tue competizioni e l'app scarica solo quelle.
 
-### ⚽ 29 competizioni
+### ⚽ 32 competizioni
 
-**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina
+**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina, Supercopa Internacional
 **Sudamerica** — Copa Libertadores, Copa Sudamericana
 **Brasile** — Brasileirão Série A, Copa do Brasil
-**Europa** — Champions League, Europa League e Conference League, con i loro turni preliminari · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1
+**Europa** — Champions League, Europa League e Conference League, con i loro turni preliminari · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Coppa Italia, EFL Cup
 **Nordamerica** — MLS, Liga MX, Leagues Cup, Concacaf Champions
 **Resto del Sudamerica** — Perù, Colombia, Cile, Ecuador, Paraguay, Bolivia
 
@@ -40,6 +42,14 @@ Alcune sono fuori stagione: restano caricate e ricompaiono da sole quando si tor
 ### 📊 In diretta, senza aggiornare
 
 Risultato e minuto che si aggiornano da soli. Mentre gioca la tua squadra, la partita resta **fissa nella barra delle notifiche** con l'ultimo gol in cima: la guardi senza aprire l'app. Tocchi la scheda ed entri dritto nella partita.
+
+### 🔮 Novità: simula come finisce
+
+Inserisci i risultati mancanti e guarda come finirebbe la classifica, con i criteri di parità di ogni campionato. Si completa da sola con i risultati veri e la condividi come immagine.
+
+### 📱 Il widget nella schermata Home
+
+Prima della partita, il canale e la posizione di ogni squadra. In diretta si accende e mostra i gol. A fine partita, la classifica aggiornata e il prossimo impegno. Nei giorni senza partite, i prossimi impegni delle tue squadre, con frecce e bandiere. Lo aggiungi dal menu dell'app.
 
 ### 🔔 Avvisi che arrivano
 
@@ -57,11 +67,11 @@ Gli undici schierati sul campo e le riserve in panchina. Tocca un giocatore e tr
 
 ### 📈 Classifiche
 
-La classifica di ogni campionato, aggiornata, con il torneo in corso in cima.
+Ogni classifica aggiornata, con una fascia colorata per Champions, Libertadores, promozione, playoff e retrocessione. E i marcatori nella maggior parte delle competizioni.
 
 ### 🏆 Tabelloni delle coppe
 
-Andata, ritorno, risultato complessivo e chi passa. Senza fare conti.
+Andata, ritorno, risultato complessivo e chi passa. Senza fare conti. Tocca un incrocio e si apre il tabellone intero, che si completa da solo con chi è già passato.
 
 ### 📅 Giornate e storico
 
@@ -69,7 +79,7 @@ Il calendario va da quattro giorni indietro a quattro in avanti. E in Oggi, scor
 
 ### 📺 Dove vedere ogni partita
 
-Scegli il tuo Paese nelle Impostazioni e ogni partita ti mostra su quale canale la trasmettono. Funziona già in 18 Paesi.
+Scegli il tuo Paese nelle Impostazioni e ogni partita ti mostra su quale canale la trasmettono. Funziona già in 17 Paesi.
 
 ### 🎯 Solo ciò che è tuo
 
@@ -88,15 +98,14 @@ L'app è in italiano, spagnolo, inglese, portoghese e francese, e si sceglie nel
 ## Schermate
 
 <div align="center">
-  <img src="./assets/es/captura1.png" width="24%"/>
-  <img src="./assets/es/captura2.png" width="24%"/>
-  <img src="./assets/es/captura3.png" width="24%"/>
-  <img src="./assets/es/captura4.png" width="24%"/>
+  <img src="./assets/it/captura1.png" width="24%"/>
+  <img src="./assets/it/captura2.png" width="24%"/>
+  <img src="./assets/it/captura3.png" width="24%"/>
+  <img src="./assets/it/captura4.png" width="24%"/>
   <br/><br/>
-  <img src="./assets/es/captura5.png" width="24%"/>
-  <img src="./assets/es/captura6.png" width="24%"/>
-  <img src="./assets/es/captura7.png" width="24%"/>
-  <img src="./assets/es/captura8.png" width="24%"/>
+  <img src="./assets/it/captura5.png" width="24%"/>
+  <img src="./assets/it/captura6.png" width="24%"/>
+  <img src="./assets/it/captura7.png" width="24%"/>
 </div>
 
 ---
@@ -109,7 +118,7 @@ Fixture è nata per giocare in famiglia: un calendario del Mondiale per seguire 
 
 Il rovescio della medaglia è che senza pubblicità l'app non si paga da sola: i server e i dati in diretta costano ogni mese. L'unico modo perché questo continui è farlo insieme, con **un caffè al mese** dall'app stessa. Da solo è poco; in tanti, basta.
 
-I risultati in diretta, gli avvisi delle tue squadre, le classifiche, i tabelloni e lo storico sono **gratis e lo resteranno**. Il caffè aggiunge le formazioni disegnate in campo, il migliore in campo, la scheda di ogni giocatore, le statistiche di dettaglio e gli avvisi di tutte le partite. E, se vuoi, il tuo nome compare sul muro, dentro l'app.
+I risultati in diretta, gli avvisi delle tue squadre, le classifiche, i tabelloni, il simulatore e lo storico sono **gratis e lo resteranno**. Il caffè aggiunge le formazioni disegnate in campo, il migliore in campo, la scheda di ogni giocatore, le statistiche di dettaglio, gli avvisi di tutte le partite, il widget con tutte le tue squadre e una simulazione salvata per ogni competizione. E, se vuoi, il tuo nome compare sul muro, dentro l'app.
 
 Grazie a chi ne ha già offerto uno. ⚽
 
@@ -124,10 +133,10 @@ Hai una versione vecchia. Aggiorna da Google Play e tornano i campionati, le par
 Controlla che l'app abbia il permesso per le notifiche e che la squadra sia segnata con la campanella. Su alcuni telefoni bisogna togliere l'app dal risparmio energetico perché avvisi a schermo spento.
 
 **Non vedo su che canale danno la partita.**
-Scegli il tuo Paese nelle Impostazioni. I canali coprono 18 Paesi per ora; se il tuo non c'è, scrivimelo in una segnalazione.
+Scegli il tuo Paese nelle Impostazioni. I canali coprono 17 Paesi per ora; se il tuo non c'è, scrivimelo in una segnalazione.
 
 **Manca una partita / un campionato.**
-Dimmi quale in una [segnalazione](../../issues/new/choose). Le 29 competizioni qui sopra sono quelle disponibili oggi; se ne aggiungono altre in base a ciò che chiedete.
+Dimmi quale in una [segnalazione](../../issues/new/choose). Le 32 competizioni qui sopra sono quelle disponibili oggi; se ne aggiungono altre in base a ciò che chiedete.
 
 **I dati sono ufficiali?**
 Arrivano da un fornitore di dati sportivi. A volte ci mette un po' a confermare un gol o il nome del marcatore; quando il fornitore corregge, l'app si corregge da sola.
