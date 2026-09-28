@@ -16,6 +16,8 @@ con el reglamento de desempate de cada liga.
   Podés mandar la imagen de la tabla a quien quieras. Con el café guardás una
   por cada competencia.
 
+La idea fue de Gaby Taboada. ¡Gracias, Gaby, por esto y por el apoyo de siempre!
+
 📊 **Las tablas te dicen qué significa cada puesto.** Una franja de color marca
 quién va a la Libertadores, a la Champions, a los playoffs, al ascenso o al
 descenso, con la leyenda abajo. Si está punteada, todavía puede cambiar según
