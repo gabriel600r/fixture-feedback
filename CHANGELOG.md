@@ -6,6 +6,34 @@ Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
 actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
 la fecha, sin número de versión.
 
+## 1.9.124 — 5 de octubre de 2026
+
+🏆 **Simulá las copas, hasta el campeón.** En la solapa Llaves, tocá
+"Simular": elegí quién pasa en cada cruce o cargá el marcador, con ida, vuelta
+y penales, y el ganador sube solo hasta la final. Se guarda y se comparte como
+la tabla.
+
+🛡️ **Los escudos, también al simular.** Cada partido que simulás en la tabla
+lleva el escudo de los dos clubes. Nos lo pidieron en una reseña de Google
+Play: ¡gracias!
+
+- Al marcar un equipo, sus resultados aparecen al instante.
+- Los canales de TV salen del país de tu chip, aunque el teléfono venga con el
+  idioma de otro país.
+- Las selecciones, con su nombre en el idioma de la app en todas las pantallas.
+- Si un partido no trae los números de camiseta, la cancha muestra la inicial
+  de cada jugador.
+- El escudo del widget se actualiza cuando cambia.
+
+## Fin de septiembre y comienzo de octubre de 2026 — sin actualizar
+
+🌎 **Llegaron las selecciones.** Los amistosos de todas las selecciones mayores
+y la UEFA Nations League, con sus tablas, zonas y desempates. Cada selección
+lleva la bandera de su país.
+
+- La Coppa Italia, con su cuadro oficial hasta la final.
+- Los avisos de gol llegan también en italiano y en francés.
+
 ## 1.9.123 — 28 de septiembre de 2026
 
 🔮 **Simulá cómo termina la tabla.** Tocá "Simular" en la tabla, cargá los
