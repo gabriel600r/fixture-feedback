@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol : Championnats En Direct</h1>
-  <p><b>Résultats en direct, compositions, classements et tableaux. 32 compétitions, sans publicité.</b></p>
+  <p><b>Résultats en direct, compositions, classements et tableaux. 34 compétitions, sans publicité.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" height="76"/>
@@ -28,13 +28,14 @@
 
 Fixture Fútbol est l'appli pour suivre les championnats et les coupes qui vous intéressent, depuis votre téléphone et sans publicité. Vous choisissez vos compétitions et l'appli ne télécharge que celles-là.
 
-### ⚽ 32 compétitions
+### ⚽ 34 compétitions
 
 **Argentine** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina, Supercopa Internacional
 **Amérique du Sud** — Copa Libertadores, Copa Sudamericana
 **Brésil** — Brasileirão Série A, Copa do Brasil
 **Europe** — Ligue des champions, Ligue Europa et Ligue Europa Conférence, avec leurs tours préliminaires · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Coppa Italia, EFL Cup
 **Amérique du Nord** — MLS, Liga MX, Leagues Cup, Concacaf Champions
+**Sélections** — Ligue des nations, matchs amicaux internationaux
 **Reste de l'Amérique du Sud** — Pérou, Colombie, Chili, Équateur, Paraguay, Bolivie
 
 Certaines sont hors saison : elles restent chargées et réapparaissent d'elles-mêmes dès que l'on rejoue.
@@ -136,7 +137,7 @@ Vérifiez que l'appli a l'autorisation de notifications et que l'équipe est mar
 Choisissez votre pays dans les Réglages. Les chaînes couvrent 17 pays pour l'instant ; si le vôtre n'y est pas, dites-le-moi dans un ticket.
 
 **Il manque un match / un championnat.**
-Dites-moi lequel dans un [ticket](../../issues/new/choose). Les 32 compétitions ci-dessus sont celles disponibles aujourd'hui ; d'autres s'ajoutent selon les demandes.
+Dites-moi lequel dans un [ticket](../../issues/new/choose). Les 34 compétitions ci-dessus sont celles disponibles aujourd'hui ; d'autres s'ajoutent selon les demandes.
 
 **Les données sont-elles officielles ?**
 Elles viennent d'un fournisseur de données sportives. Il met parfois du temps à confirmer un but ou le nom du buteur ; quand le fournisseur corrige, l'appli se corrige toute seule.

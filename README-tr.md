@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Futbol: Canlı Ligler" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Futbol: Canlı Ligler</h1>
-  <p><b>Canlı skorlar, puan durumları, eşleşmeler ve simülatör. 32 turnuva, reklamsız.</b></p>
+  <p><b>Canlı skorlar, puan durumları, eşleşmeler ve simülatör. 34 turnuva, reklamsız.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" alt="Google Play'den alın" height="76"/>
@@ -28,9 +28,9 @@ Fixture Futbol, senin için önemli olan ligleri ve kupaları takip etmen için:
 
 ---
 
-### ⚽ 32 TURNUVA
+### ⚽ 34 TURNUVA
 
-Premier League, LaLiga, Serie A, Bundesliga ve Ligue 1; yanında Coppa Italia ve EFL Cup. Şampiyonlar Ligi, Avrupa Ligi ve Konferans Ligi, ön eleme turlarıyla birlikte. Copa Libertadores ve Copa Sudamericana. Brasileirão Série A ve Copa do Brasil. MLS, Liga MX, Leagues Cup ve Concacaf Şampiyonlar Kupası. Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina ve Supercopa Internacional. Ayrıca Peru, Kolombiya, Şili, Ekvador, Paraguay ve Bolivya ligleri.
+Premier League, LaLiga, Serie A, Bundesliga ve Ligue 1; yanında Coppa Italia ve EFL Cup. Şampiyonlar Ligi, Avrupa Ligi ve Konferans Ligi, ön eleme turlarıyla birlikte. Copa Libertadores ve Copa Sudamericana. Brasileirão Série A ve Copa do Brasil. MLS, Liga MX, Leagues Cup ve Concacaf Şampiyonlar Kupası. Uluslar Ligi ve milli takım hazırlık maçları. Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina ve Supercopa Internacional. Ayrıca Peru, Kolombiya, Şili, Ekvador, Paraguay ve Bolivya ligleri.
 
 Sezon arasında olanlar yüklü kalır ve yeniden oynanmaya başlayınca kendiliğinden görünür.
 
@@ -121,7 +121,7 @@ Uygulamanın bildirim izni olduğundan ve takımın zil simgesiyle işaretli old
 Ayarlar'dan ülkeni seç. Kanallar şimdilik 17 ülkede var (Amerika kıtası, İspanya ve Portekiz); seninki yoksa bir kayıtta bana yaz.
 
 **Bir maç ya da lig eksik.**
-Hangisi olduğunu bir [kayıtta](../../issues/new/choose) yaz. Yukarıdaki 32 turnuva bugün mevcut olanlar; istekler doğrultusunda yenileri ekleniyor.
+Hangisi olduğunu bir [kayıtta](../../issues/new/choose) yaz. Yukarıdaki 34 turnuva bugün mevcut olanlar; istekler doğrultusunda yenileri ekleniyor.
 
 **Veriler resmî mi?**
 Bir spor verisi sağlayıcısından geliyor. Bazen bir golün ya da golcünün adının onaylanması biraz sürer; sağlayıcı düzelttiğinde uygulama da kendiliğinden düzelir.

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Voetbal: Live Score" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Voetbal: Live Score</h1>
-  <p><b>Live scores, standen, bekerduels en simulator. 32 competities, zonder reclame.</b></p>
+  <p><b>Live scores, standen, bekerduels en simulator. 34 competities, zonder reclame.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/nl_badge_web_generic.png" alt="Ontdek het op Google Play" height="76"/>
@@ -28,9 +28,9 @@ Fixture Voetbal is de app voor de competities en bekers die jij belangrijk vindt
 
 ---
 
-### ⚽ 32 COMPETITIES
+### ⚽ 34 COMPETITIES
 
-Premier League, LaLiga, Serie A, Bundesliga en Ligue 1, plus de Coppa Italia en de EFL Cup. Champions League, Europa League en Conference League, inclusief voorrondes. Copa Libertadores en Copa Sudamericana. Brasileirão Série A en Copa do Brasil. MLS, Liga MX, Leagues Cup en Concacaf Champions. Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina en Supercopa Internacional. En de competities van Peru, Colombia, Chili, Ecuador, Paraguay en Bolivia.
+Premier League, LaLiga, Serie A, Bundesliga en Ligue 1, plus de Coppa Italia en de EFL Cup. Champions League, Europa League en Conference League, inclusief voorrondes. Copa Libertadores en Copa Sudamericana. Brasileirão Série A en Copa do Brasil. MLS, Liga MX, Leagues Cup en Concacaf Champions. De Nations League en interlands. Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina en Supercopa Internacional. En de competities van Peru, Colombia, Chili, Ecuador, Paraguay en Bolivia.
 
 Wat stilligt, komt vanzelf terug zodra er weer gespeeld wordt.
 
@@ -121,7 +121,7 @@ Controleer of de app meldingen mag sturen en of het team met het belletje is gem
 Kies je land in Instellingen. De zenders zijn er voorlopig in 17 landen (Amerika, Spanje en Portugal); staat het jouwe er niet bij, laat het weten in een ticket.
 
 **Er ontbreekt een wedstrijd of competitie.**
-Laat in een [ticket](../../issues/new/choose) weten welke. De 32 competities hierboven zijn die van vandaag; er komen er meer bij op basis van wat gevraagd wordt.
+Laat in een [ticket](../../issues/new/choose) weten welke. De 34 competities hierboven zijn die van vandaag; er komen er meer bij op basis van wat gevraagd wordt.
 
 **Zijn de gegevens officieel?**
 Ze komen van een leverancier van sportdata. Soms duurt het even voordat een doelpunt of de naam van de maker bevestigd is; als de leverancier corrigeert, corrigeert de app vanzelf.

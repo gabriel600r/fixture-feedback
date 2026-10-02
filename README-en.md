@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Live Football</h1>
-  <p><b>Live scores, line-ups, tables and brackets. 32 competitions, no ads.</b></p>
+  <p><b>Live scores, line-ups, tables and brackets. 34 competitions, no ads.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="76"/>
@@ -28,13 +28,14 @@
 
 Fixture Fútbol is the app for following the leagues and cups you care about, from your phone and without ads. You pick your competitions and the app downloads only those.
 
-### ⚽ 32 competitions
+### ⚽ 34 competitions
 
 **Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina, Supercopa Internacional
 **South America** — Copa Libertadores, Copa Sudamericana
 **Brazil** — Brasileirão Série A, Copa do Brasil
 **Europe** — Champions League, Europa League and Conference League, with their qualifying rounds · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Coppa Italia, EFL Cup
 **North America** — MLS, Liga MX, Leagues Cup, Concacaf Champions
+**National teams** — Nations League, international friendlies
 **Rest of South America** — Peru, Colombia, Chile, Ecuador, Paraguay, Bolivia
 
 Some are out of season: they stay loaded and show up on their own once they're playing again.
@@ -136,7 +137,7 @@ Check that the app has notification permission and that the team is starred with
 Pick your country in Settings. Channels cover 17 countries for now; if yours isn't there, tell me in a ticket.
 
 **A match or a league is missing.**
-Tell me which one in a [ticket](../../issues/new/choose). The 32 competitions above are the ones available today; more get added based on what people ask for.
+Tell me which one in a [ticket](../../issues/new/choose). The 34 competitions above are the ones available today; more get added based on what people ask for.
 
 **Is the data official?**
 It comes from a sports data provider. Sometimes it takes a while to confirm a goal or the scorer's name; when the provider corrects it, the app corrects itself.

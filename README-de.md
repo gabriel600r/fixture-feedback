@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fußball: Live-Ligen" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fußball: Live-Ligen</h1>
-  <p><b>Live-Ergebnisse, Tabellen, K.-o.-Runden, Simulator. 32 Wettbewerbe, werbefrei.</b></p>
+  <p><b>Live-Ergebnisse, Tabellen, K.-o.-Runden, Simulator. 34 Wettbewerbe, werbefrei.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/de_badge_web_generic.png" alt="Jetzt bei Google Play" height="76"/>
@@ -28,9 +28,9 @@ Fixture Fußball ist die App für die Ligen und Pokale, die dich interessieren �
 
 ---
 
-### ⚽ 32 WETTBEWERBE
+### ⚽ 34 WETTBEWERBE
 
-Bundesliga, Premier League, LaLiga, Serie A und Ligue 1, außerdem Coppa Italia und EFL Cup. Champions League, Europa League und Conference League, inklusive Qualifikation. Copa Libertadores und Copa Sudamericana. Brasileirão Série A und Copa do Brasil. MLS, Liga MX, Leagues Cup und Concacaf Champions. Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina und Supercopa Internacional. Dazu die Ligen von Peru, Kolumbien, Chile, Ecuador, Paraguay und Bolivien.
+Bundesliga, Premier League, LaLiga, Serie A und Ligue 1, außerdem Coppa Italia und EFL Cup. Champions League, Europa League und Conference League, inklusive Qualifikation. Copa Libertadores und Copa Sudamericana. Brasileirão Série A und Copa do Brasil. MLS, Liga MX, Leagues Cup und Concacaf Champions. Nations League und Länderspiele. Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina und Supercopa Internacional. Dazu die Ligen von Peru, Kolumbien, Chile, Ecuador, Paraguay und Bolivien.
 
 ### 📊 LIVE, OHNE AKTUALISIEREN
 
@@ -119,7 +119,7 @@ Prüfe, ob die App Benachrichtigungen senden darf und ob das Team mit der Glocke
 Wähle dein Land in den Einstellungen. Die Sender gibt es bisher in 17 Ländern (Amerika, Spanien und Portugal); wenn deins fehlt, schreib es in ein Ticket.
 
 **Ein Spiel oder eine Liga fehlt.**
-Sag mir in einem [Ticket](../../issues/new/choose), welche. Die 32 Wettbewerbe oben sind die aktuellen; weitere kommen dazu, je nachdem, was gewünscht wird.
+Sag mir in einem [Ticket](../../issues/new/choose), welche. Die 34 Wettbewerbe oben sind die aktuellen; weitere kommen dazu, je nachdem, was gewünscht wird.
 
 **Sind die Daten offiziell?**
 Sie kommen von einem Sportdatenanbieter. Manchmal dauert es, bis ein Tor oder der Name des Torschützen bestätigt ist; wenn der Anbieter korrigiert, korrigiert sich die App von selbst.
