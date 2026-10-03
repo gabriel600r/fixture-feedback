@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Futbol: Canlı Ligler" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Futbol: Canlı Ligler</h1>
-  <p><b>Canlı skorlar, puan durumları, eşleşmeler ve simülatör. 34 turnuva, reklamsız.</b></p>
+  <p><b>Canlı skorlar, puan durumları, eşleşmeler ve simülatör. 34 turnuva, ücretsiz.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" alt="Google Play'den alın" height="76"/>
@@ -20,7 +20,7 @@
 
 ## Futbol durmuyor. Uygulama da durmuyor.
 
-Fixture Futbol, senin için önemli olan ligleri ve kupaları takip etmen için: telefonundan ve reklamsız. Uygulama İspanyolca, İngilizce, Portekizce, İtalyanca ve Fransızca; henüz Türkçe değil.
+Fixture Futbol, senin için önemli olan ligleri ve kupaları takip etmen için: telefonundan, ücretsiz ve eksiksiz. Uygulama İspanyolca, İngilizce, Portekizce, İtalyanca ve Fransızca; henüz Türkçe değil.
 
 > ### 🐛 Bir sorun mu buldun, yoksa bir fikrin mi var?
 > **[Buradan bir kayıt aç](../../issues/new/choose)** — hepsi okunuyor.
@@ -40,7 +40,7 @@ Skor ve dakika kendiliğinden güncellenir. Takımın oynarken maç, son golü e
 
 ### 🔮 YENİ: NASIL BİTECEĞİNİ SİMÜLE ET
 
-Kalan maçların sonuçlarını gir ve puan durumunun nasıl şekilleneceğini gör; her ligin kendi averaj kurallarıyla. Maçlar oynandıkça simülasyonun gerçek sonuçlarla kendiliğinden tamamlanır; görsel olarak da paylaşabilirsin.
+Kalan maçların sonuçlarını gir ve puan durumunun nasıl şekilleneceğini gör; her ligin kendi averaj kurallarıyla. Maçlar oynandıkça simülasyonun gerçek sonuçlarla kendiliğinden tamamlanır; görsel olarak da paylaşabilirsin. Kupalarda da her eşleşmede kimin tur atlayacağını seç, şampiyona kadar.
 
 ### 📈 PUAN DURUMLARI, EŞLEŞMELER VE GOL KRALLIĞI
 
@@ -48,7 +48,7 @@ Her ligin güncel puan durumu; renkli bir şerit, kimin Libertadores'e ya da Şa
 
 ### 📱 ANA EKRANDAKİ WIDGET
 
-Maçtan önce: kanal ve iki takımın sıralaması. Canlıyken parlar ve golleri gösterir. Maç bitince: puan durumundaki yeni sıralama ve bir sonraki maç. Maç olmayan günlerde takımlarının sıradaki maçları, oklar ve bayraklarla.
+Maçtan önce: kanal ve iki takımın sıralaması. Canlıyken parlar ve golleri gösterir. Maç bitince: puan durumundaki yeni sıralama ve bir sonraki maç. Maç olmayan günlerde takımlarının sıradaki maçları, oklar ve bayraklarla. Üstelik tek bir takımın değil, tüm takımlarının.
 
 ### 📺 NEREDEN İZLENİR
 
@@ -56,11 +56,11 @@ Her maçta, ülkende hangi kanalda yayınlandığını görürsün: Amerika kıt
 
 ### 🔔 GERÇEKTEN GELEN BİLDİRİMLER
 
-Seçtiğin maçların golleri, başlama ve bitiş düdüğü. Gol bildirimi golü atanı ve asisti yapanı söyler; VAR golü iptal ederse de haber veririz. İstersen yalnızca golleri alırsın. Takımlarını favorilere ekle ya da tek bir maça çan koy.
+Seçtiğin maçların golleri, başlama ve bitiş düdüğü. Gol bildirimi golü atanı ve asisti yapanı söyler; VAR golü iptal ederse de haber veririz. İstersen yalnızca golleri alırsın. Takımlarını favorilere ekle, tek bir maça çan koy ya da tüm maçların bildirimlerini al.
 
 ### 📋 MAÇ, TEK BAKIŞTA
 
-Goller, kartlar ve değişiklikler tek listede, en yenisi en üstte; hakem, stat ve hava durumu; penaltı atışları da televizyondaki gibi. İki dokunuşla gruba gönderirsin.
+Goller, kartlar ve değişiklikler tek listede, en yenisi en üstte. Sahaya çizilmiş kadrolar: bir oyuncuya dokun, yaşını, boyunu, ayağını ve uyruğunu gör. Maçın adamı ve turnuvaların çoğunda her oyuncunun kartı: puan, gol, pas ve top kapma. Bir de ince istatistikler: isabetli şut, pas, korner, kurtarış ve dahası. Hakem, stat, hava durumu ve televizyondaki gibi penaltı atışları. İki dokunuşla gruba gönderirsin.
 
 ### 🔍 SEZON GEÇMİŞİ
 
@@ -76,19 +76,9 @@ Haziran ve temmuzdaki 104 maç uygulamada duruyor: sonuçlar, gruplar, eşleşme
 
 ---
 
-## 💚 ÜCRETSİZ VE REKLAMSIZ, HEP BİRLİKTE
+## 💚 HER ŞEY ÜCRETSİZ, PRO İLE REKLAMSIZ
 
-Canlı skorlar, takımlarının bildirimleri, puan durumları, eşleşmeler, simülatör ve sezon geçmişi ücretsiz. Ne banner, ne video, maçın önünü kapatan hiçbir şey: reklam yok ve olmayacak. Sunucuları ve canlı verileri, uygulamayı kullananlar olarak hep birlikte ödüyoruz: ayda bir kahve, var olanı ayakta tutar ve yeni ligler eklemeyi mümkün kılar. İstediğin zaman Google Play'den iptal edersin; istersen adın da uygulamadaki duvarda görünür.
-
-Katılmak ayrıca şunları açar:
-
-- Sahaya çizilmiş kadrolar: bir oyuncuya dokun, yaşını, boyunu, ayağını ve uyruğunu gör
-- Maçın adamı
-- Her oyuncunun kartı: puan, gol, pas ve top kapma (turnuvaların çoğunda)
-- İnce istatistikler: isabetli şut, pas, korner, kurtarış ve dahası
-- SADECE takımlarının değil, TÜM maçların bildirimleri
-- Tek bir takımın değil, tüm takımlarının widget'ı
-- Birden fazla simülasyon kaydetme, her turnuva için bir tane
+Bunların hepsi herkes için ücretsiz. Uygulama rahatsız etmeyen reklamlarla ayakta duruyor: reklamlar maçların arasında ve maç sayfasında yer alır, maçın önünü asla kapatmaz ve tam ekran açılmaz. Ayda bir kahve olan PRO ile hiç reklam görmezsin, adın uygulamadaki duvarda görünür ve her turnuva için bir simülasyon saklarsın. İstediğin zaman Google Play'den iptal edersin.
 
 ---
 
@@ -130,7 +120,7 @@ Bir spor verisi sağlayıcısından geliyor. Bazen bir golün ya da golcünün a
 
 ## Gizlilik
 
-Uygulama **hesap ya da kayıt istemez**. Seçtiklerin (favori takımlar, ligler, bildirimler) bir sunucuda değil, telefonunda saklanır. Kahve satın alma işlemini Google Play yürütür; kart bilgilerini görmeyiz ve saklamayız.
+Uygulama **hesap ya da kayıt istemez**. Seçtiklerin (favori takımlar, ligler, bildirimler) bir sunucuda değil, telefonunda saklanır. Kahve satın alma işlemini Google Play yürütür; kart bilgilerini görmeyiz ve saklamayız. Reklamları Google AdMob sunar ve onları seçmek için telefonunun reklam kimliğini kullanabilir; Avrupa'da ve Birleşik Krallık'ta uygulama önce iznini ister. PRO ile hiçbir reklam istenmez.
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Voetbal: Live Score" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Voetbal: Live Score</h1>
-  <p><b>Live scores, standen, bekerduels en simulator. 34 competities, zonder reclame.</b></p>
+  <p><b>Live scores, standen, bekerduels en simulator. 34 competities, helemaal gratis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/nl_badge_web_generic.png" alt="Ontdek het op Google Play" height="76"/>
@@ -20,7 +20,7 @@
 
 ## Het voetbal stopt niet. De app ook niet.
 
-Fixture Voetbal is de app voor de competities en bekers die jij belangrijk vindt, op je telefoon en zonder reclame. De app is er in het Spaans, Engels, Portugees, Italiaans en Frans – nog niet in het Nederlands.
+Fixture Voetbal is de app voor de competities en bekers die jij belangrijk vindt, op je telefoon, gratis en compleet. De app is er in het Spaans, Engels, Portugees, Italiaans en Frans – nog niet in het Nederlands.
 
 > ### 🐛 Een probleem gevonden of een idee?
 > **[Open hier een ticket](../../issues/new/choose)** — ze worden allemaal gelezen.
@@ -40,7 +40,7 @@ Stand en speelminuut werken zichzelf bij. Speelt jouw ploeg, dan staat de wedstr
 
 ### 🔮 NIEUW: SIMULEER HOE HET AFLOOPT
 
-Vul de ontbrekende uitslagen in en zie hoe de stand zou eindigen, volgens de regels van elke competitie bij gelijke punten. Gaandeweg neemt je simulatie vanzelf de echte uitslagen over; delen doe je als afbeelding.
+Vul de ontbrekende uitslagen in en zie hoe de stand zou eindigen, volgens de regels van elke competitie bij gelijke punten. Gaandeweg neemt je simulatie vanzelf de echte uitslagen over; delen doe je als afbeelding. En in de bekers kies je wie er in elk duel doorgaat, tot aan de winnaar.
 
 ### 📈 STANDEN, BEKERDUELS EN TOPSCORERS
 
@@ -48,7 +48,7 @@ De actuele stand van elke competitie, met een gekleurde balk voor Libertadores, 
 
 ### 📱 DE WIDGET OP JE BEGINSCHERM
 
-Voor de wedstrijd: zender en plek in de stand van beide ploegen. Live licht hij op en toont de doelpunten. Na afloop: de nieuwe plek en de volgende wedstrijd. Op dagen zonder wedstrijd: de komende duels van je clubs, met pijltjes en vlaggen.
+Voor de wedstrijd: zender en plek in de stand van beide ploegen. Live licht hij op en toont de doelpunten. Na afloop: de nieuwe plek en de volgende wedstrijd. Op dagen zonder wedstrijd: de komende duels van je clubs, met pijltjes en vlaggen. En met al je clubs, niet alleen één.
 
 ### 📺 WAAR IS HET TE ZIEN
 
@@ -56,11 +56,11 @@ Bij elke wedstrijd de zender in jouw land: 17 landen in Amerika, Spanje en Portu
 
 ### 🔔 MELDINGEN DIE AANKOMEN
 
-Doelpunten, aftrap en eindsignaal van de wedstrijden die jij kiest. De doelpuntmelding noemt maker en assistgever, en keurt de VAR hem af, dan hoor je het. Alleen doelpunten kan ook. Geef je favoriete clubs een ster, of zet het belletje op één losse wedstrijd.
+Doelpunten, aftrap en eindsignaal van de wedstrijden die jij kiest. De doelpuntmelding noemt maker en assistgever, en keurt de VAR hem af, dan hoor je het. Alleen doelpunten kan ook. Geef je favoriete clubs een ster, zet het belletje op één losse wedstrijd of krijg meldingen van alle wedstrijden.
 
 ### 📋 DE WEDSTRIJD IN ÉÉN OOGOPSLAG
 
-Doelpunten, kaarten en wissels in één lijst, het nieuwste bovenaan; scheidsrechter, stadion en weer; en de strafschoppenserie zoals op tv. In twee tikken gedeeld in de groep.
+Doelpunten, kaarten en wissels in één lijst, het nieuwste bovenaan. De opstellingen op het veld: tik op een speler voor leeftijd, lengte, voet en nationaliteit. De man van de wedstrijd en, in de meeste competities, de kaart van elke speler: cijfer, doelpunten, passes en duels. En de fijne statistieken: schoten op doel, passes, corners, reddingen en meer. Scheidsrechter, stadion, weer en de strafschoppenserie zoals op tv. In twee tikken gedeeld in de groep.
 
 ### 🔍 SEIZOENSOVERZICHT
 
@@ -76,19 +76,9 @@ De 104 wedstrijden van juni en juli zitten nog in de app: uitslagen, groepen, sc
 
 ---
 
-## 💚 GRATIS EN ZONDER RECLAME, MET Z'N ALLEN
+## 💚 ALLES GRATIS, EN ZONDER RECLAME MET PRO
 
-Live uitslagen, meldingen van je clubs, standen, bekerschema's, de simulator en historie zijn gratis. Geen banner, geen video, niets dat de wedstrijd bedekt: er is geen reclame en die komt er ook niet. Servers en live data betalen we onder elkaar, wij die de app gebruiken: één koffie per maand houdt overeind wat er is en maakt meer competities mogelijk. Opzeggen kan altijd via Google Play, en als je wilt staat je naam op de muur in de app.
-
-Meedoen ontgrendelt ook:
-
-- De opstellingen op het veld: tik op een speler voor leeftijd, lengte, voet en nationaliteit
-- De man van de wedstrijd
-- De kaart van elke speler: cijfer, doelpunten, passes en duels (in de meeste competities)
-- De fijne statistieken: schoten op doel, passes, corners, reddingen en meer
-- Meldingen van ALLE wedstrijden, niet alleen van jouw clubs
-- De widget met al je clubs, niet alleen één
-- Meerdere simulaties bewaren, één per competitie
+Dit alles is gratis, voor iedereen. De app draait op reclame die niet stoort: tussen de wedstrijden en in het wedstrijdscherm, nooit over de wedstrijd heen en nooit schermvullend. Met PRO, één koffie per maand, zie je geen enkele advertentie, staat je naam op de muur in de app en bewaar je één simulatie per competitie. Opzeggen kan altijd via Google Play.
 
 ---
 
@@ -130,7 +120,7 @@ Ze komen van een leverancier van sportdata. Soms duurt het even voordat een doel
 
 ## Privacy
 
-De app vraagt **geen account en geen registratie**. Wat je kiest (favoriete teams, competities, meldingen) blijft op je telefoon, niet op een server. De aankoop van de koffie loopt via Google Play; wij zien en bewaren geen kaartgegevens.
+De app vraagt **geen account en geen registratie**. Wat je kiest (favoriete teams, competities, meldingen) blijft op je telefoon, niet op een server. De aankoop van de koffie loopt via Google Play; wij zien en bewaren geen kaartgegevens. De advertenties komen van Google AdMob, dat de advertentie-ID van je telefoon kan gebruiken om ze te kiezen; in Europa en het Verenigd Koninkrijk vraagt de app eerst je toestemming. Met PRO wordt er geen enkele advertentie opgevraagd.
 
 ---
 

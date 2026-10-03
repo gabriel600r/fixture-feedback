@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Live Football</h1>
-  <p><b>Live scores, line-ups, tables and brackets. 34 competitions, no ads.</b></p>
+  <p><b>Live scores, line-ups, tables and brackets. 34 competitions, all free.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="76"/>
@@ -26,7 +26,7 @@
 
 ## Football doesn't stop. Neither does the app.
 
-Fixture Fútbol is the app for following the leagues and cups you care about, from your phone and without ads. You pick your competitions and the app downloads only those.
+Fixture Fútbol is the app for following the leagues and cups you care about, from your phone, free and with nothing locked. You pick your competitions and the app downloads only those.
 
 ### ⚽ 34 competitions
 
@@ -46,17 +46,17 @@ Score and minute update on their own. While your team is playing, the match stay
 
 ### 🔮 New: simulate how it ends
 
-Fill in the results still to come and see how the table would finish, using each league's own tiebreak rules. Your simulation plays itself out as the real results come in, and you can share it as an image.
+Fill in the results still to come and see how the table would finish, using each league's own tiebreak rules. Your simulation plays itself out as the real results come in, and you can share it as an image. And in the cups, pick who goes through in each tie, all the way to the champion.
 
 ### 📱 The widget on your home screen
 
-Before the match, the channel and each team's place in the table. Live, it lights up and flags the goals. At full time, where things stand in the table and the next match. On days with no match, your teams' upcoming games, with arrows and flags. You add it from the app's menu.
+Before the match, the channel and each team's place in the table. Live, it lights up and flags the goals. At full time, where things stand in the table and the next match. On days with no match, your teams' upcoming games, with arrows and flags. You add it from the app's menu, with all your teams, not just one.
 
 ### 🔔 Alerts that actually arrive
 
 Goal, kick-off and full time for the matches you choose. The goal alert says who scored and who assisted. And if VAR rules it out, we tell you that goal is gone.
 
-You pick which ones you want: you can ask for goals only and nothing else. Star your favourite teams, or ring the bell on a single match.
+You pick which ones you want: you can ask for goals only and nothing else. Star your favourite teams, ring the bell on a single match, or get alerts for every match.
 
 ### 📋 The match at a glance
 
@@ -65,6 +65,10 @@ Goals, cards and substitutions in one list, latest on top, and each half closes 
 ### 👕 Line-ups on the pitch
 
 The eleven laid out on the field and the substitutes on the bench. Tap a player for their age, height, foot and nationality.
+
+### ⭐ Player of the match and the stats
+
+The player of the match and, in most competitions, each player's stat sheet: rating, goals, passes and tackles. And the fine-grained statistics: shots on target, passes, corners, saves and more.
 
 ### 📈 League tables
 
@@ -115,13 +119,13 @@ The app is in English, Spanish, Portuguese, Italian and French, chosen in Settin
 
 Fixture started as a family thing: a World Cup fixture list so we could follow the matches between us. It got out of hand, and when the World Cup ended I decided to carry on with the leagues.
 
-**There are no ads here, and there never will be.** It isn't a marketing stance: they ruin the experience. You open the app for a score and you have to dodge a banner.
+Up to version 1.9.123 there were no ads, and part of the app was unlocked with the coffee. **From 1.9.124 it's the other way round: everything is open to everyone.** Line-ups, the player of the match, each player's stat sheet, the fine-grained statistics, alerts for every match, the widget with all your teams: nothing is locked.
 
-The downside is that without ads the app doesn't pay for itself: the servers and the live data cost money every month. The only way this keeps going is together, with **a coffee a month** from inside the app. On its own it's little; between many, it's enough.
+What keeps it going is **ads that stay out of the way**: a few between the day's matches and one in the match sheet, always labelled as ads. They never cover the match or pop up full screen. The servers and the live data cost money every month, and this is how they keep running.
 
-Live scores, alerts for your teams, tables, brackets, the simulator and the season history are **free and will stay free**. The coffee adds the line-ups drawn on the pitch, the player of the match, each player's stat sheet, the fine-grained statistics, alerts for every match, the widget with all your teams and one saved simulation per competition. And if you want, your name appears on the wall inside the app.
+If you'd rather not see them, **with PRO — a coffee a month — you see no ads at all**, your name appears on the wall inside the app, and you keep one saved simulation per competition. Cancel whenever you want from Google Play.
 
-Thanks to everyone who has already bought one. ⚽
+Thanks to everyone who has already joined. ⚽
 
 ---
 
@@ -146,7 +150,7 @@ It comes from a sports data provider. Sometimes it takes a while to confirm a go
 
 ## Privacy
 
-The app **asks for no account and no sign-up**. What you choose (favourite teams, leagues, alerts) is stored on your phone, not on a server. The coffee purchase is handled by Google Play; we neither see nor store your card details.
+The app **asks for no account and no sign-up**. What you choose (favourite teams, leagues, alerts) is stored on your phone, not on a server. The coffee purchase is handled by Google Play; we neither see nor store your card details. Ads are served by Google AdMob, which may use your phone's advertising ID to choose them; in Europe and the UK the app asks for your consent first. With PRO, no ads are requested at all.
 
 ---
 

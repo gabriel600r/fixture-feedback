@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fußball: Live-Ligen" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fußball: Live-Ligen</h1>
-  <p><b>Live-Ergebnisse, Tabellen, K.-o.-Runden, Simulator. 34 Wettbewerbe, werbefrei.</b></p>
+  <p><b>Live-Ergebnisse, Tabellen, K.-o.-Runden, Simulator. 34 Wettbewerbe, gratis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/de_badge_web_generic.png" alt="Jetzt bei Google Play" height="76"/>
@@ -20,7 +20,7 @@
 
 ## Der Fußball hört nicht auf. Die App auch nicht.
 
-Fixture Fußball ist die App für die Ligen und Pokale, die dich interessieren — auf dem Handy und ohne Werbung. Die App gibt es auf Spanisch, Englisch, Portugiesisch, Italienisch und Französisch – noch nicht auf Deutsch.
+Fixture Fußball ist die App für die Ligen und Pokale, die dich interessieren — auf dem Handy, gratis und komplett. Die App gibt es auf Spanisch, Englisch, Portugiesisch, Italienisch und Französisch – noch nicht auf Deutsch.
 
 > ### 🐛 Ein Problem gefunden oder eine Idee?
 > **[Hier ein Ticket eröffnen](../../issues/new/choose)** — jedes wird gelesen.
@@ -38,7 +38,7 @@ Ergebnis und Spielminute aktualisieren sich von selbst. Spielt dein Team, bleibt
 
 ### 🔮 NEU: SIMULIER, WIE ES AUSGEHT
 
-Trag die fehlenden Ergebnisse ein und sieh, wie die Tabelle am Ende aussähe — nach den Regeln jeder Liga bei Punktgleichheit. Die Simulation übernimmt nach und nach die echten Ergebnisse und lässt sich als Bild teilen.
+Trag die fehlenden Ergebnisse ein und sieh, wie die Tabelle am Ende aussähe — nach den Regeln jeder Liga bei Punktgleichheit. Die Simulation übernimmt nach und nach die echten Ergebnisse und lässt sich als Bild teilen. Und in den Pokalen wählst du, wer in jedem Duell weiterkommt, bis zum Sieger.
 
 ### 📈 TABELLEN, K.-O.-RUNDEN UND TORJÄGER
 
@@ -46,7 +46,7 @@ Jede Tabelle aktuell, mit Farbstreifen für Libertadores, Champions League, Aufs
 
 ### 📱 DAS WIDGET AUF DEM STARTBILDSCHIRM
 
-Vor dem Spiel: Sender und Tabellenplatz beider Teams. Live leuchtet es auf und zeigt die Tore. Nach Abpfiff: neuer Tabellenplatz und nächstes Spiel. An spielfreien Tagen: die nächsten Spiele deiner Vereine, mit Pfeilen und Flaggen.
+Vor dem Spiel: Sender und Tabellenplatz beider Teams. Live leuchtet es auf und zeigt die Tore. Nach Abpfiff: neuer Tabellenplatz und nächstes Spiel. An spielfreien Tagen: die nächsten Spiele deiner Vereine, mit Pfeilen und Flaggen. Und mit all deinen Vereinen, nicht nur einem.
 
 ### 📺 WO ES LÄUFT
 
@@ -54,11 +54,11 @@ Bei jedem Spiel der Sender in deinem Land: 17 Länder in Amerika, Spanien und Po
 
 ### 🔔 HINWEISE, DIE ANKOMMEN
 
-Tore, Anpfiff und Abpfiff der Spiele, die du wählst. Der Tor-Hinweis nennt Torschützen und Vorlagengeber; nimmt der VAR das Tor zurück, sagen wir Bescheid. Auf Wunsch nur Tore. Markiere deine Lieblingsvereine oder setz die Glocke auf ein einzelnes Spiel.
+Tore, Anpfiff und Abpfiff der Spiele, die du wählst. Der Tor-Hinweis nennt Torschützen und Vorlagengeber; nimmt der VAR das Tor zurück, sagen wir Bescheid. Auf Wunsch nur Tore. Markiere deine Lieblingsvereine, setz die Glocke auf ein einzelnes Spiel oder lass dich über alle Spiele informieren.
 
 ### 📋 DAS SPIEL AUF EINEN BLICK
 
-Tore, Karten und Wechsel in einer Liste, das Neueste oben; Schiedsrichter, Stadion und Wetter; das Elfmeterschießen wie im Fernsehen. Mit zwei Fingertipps in der Gruppe geteilt.
+Tore, Karten und Wechsel in einer Liste, das Neueste oben. Die Aufstellungen auf dem Platz: Spieler antippen für Alter, Größe, starken Fuß und Nationalität. Der Spieler des Spiels und, in den meisten Wettbewerben, die Karte jedes Spielers: Note, Tore, Pässe und Zweikämpfe. Dazu die feinen Statistiken: Schüsse aufs Tor, Pässe, Ecken, Paraden und mehr. Schiedsrichter, Stadion, Wetter und das Elfmeterschießen wie im Fernsehen. Mit zwei Fingertipps in der Gruppe geteilt.
 
 ### 🔍 SAISONVERLAUF
 
@@ -74,19 +74,9 @@ Die 104 Spiele vom Juni und Juli sind weiter in der App: Ergebnisse, Gruppen, K.
 
 ---
 
-## 💚 GRATIS UND OHNE WERBUNG, GEMEINSAM
+## 💚 ALLES GRATIS, UND OHNE WERBUNG MIT PRO
 
-Live-Ergebnisse, Hinweise zu deinen Vereinen, Tabellen, K.-o.-Runden, Simulator und Saisonverlauf sind gratis. Kein Banner, kein Video, nichts, was dir das Spiel verdeckt: Es gibt keine Werbung, und das bleibt so. Server und Live-Daten bezahlen wir gemeinsam, wir alle, die wir die App nutzen: Ein Kaffee im Monat hält am Leben, was es gibt, und macht neue Ligen möglich. Jederzeit über Google Play kündbar; wenn du magst, steht dein Name an der Wand in der App.
-
-Mitmachen schaltet außerdem frei:
-
-- Die Aufstellungen auf dem Platz: Spieler antippen für Alter, Größe, starken Fuß und Nationalität
-- Den Spieler des Spiels
-- Die Karte jedes Spielers: Note, Tore, Pässe und Zweikämpfe (in den meisten Wettbewerben)
-- Die feinen Statistiken: Schüsse aufs Tor, Pässe, Ecken, Paraden und mehr
-- Hinweise zu ALLEN Spielen, nicht nur zu deinen Vereinen
-- Das Widget mit all deinen Vereinen, nicht nur einem
-- Mehrere Simulationen speichern, eine pro Wettbewerb
+All das ist gratis, für alle. Die App finanziert sich über Werbung, die nicht stört: Sie steht zwischen den Spielen und in der Spielansicht, verdeckt nie das Spiel und öffnet sich nie im Vollbild. Mit PRO, einem Kaffee im Monat, siehst du keine Werbung, dein Name steht an der Wand in der App, und du speicherst eine Simulation pro Wettbewerb. Jederzeit über Google Play kündbar.
 
 ---
 
@@ -128,7 +118,7 @@ Sie kommen von einem Sportdatenanbieter. Manchmal dauert es, bis ein Tor oder de
 
 ## Datenschutz
 
-Die App verlangt **kein Konto und keine Registrierung**. Was du auswählst (Lieblingsteams, Ligen, Benachrichtigungen), bleibt auf deinem Handy, nicht auf einem Server. Den Kauf des Kaffees wickelt Google Play ab; wir sehen und speichern keine Kartendaten.
+Die App verlangt **kein Konto und keine Registrierung**. Was du auswählst (Lieblingsteams, Ligen, Benachrichtigungen), bleibt auf deinem Handy, nicht auf einem Server. Den Kauf des Kaffees wickelt Google Play ab; wir sehen und speichern keine Kartendaten. Die Werbung kommt von Google AdMob, das zur Auswahl der Anzeigen die Werbe-ID deines Handys nutzen kann; in Europa und im Vereinigten Königreich fragt die App vorher nach deiner Zustimmung. Mit PRO wird gar keine Werbung angefordert.
 
 ---
 

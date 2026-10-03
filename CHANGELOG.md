@@ -8,6 +8,13 @@ la fecha, sin número de versión.
 
 ## 1.9.124 — 5 de octubre de 2026
 
+🔓 **Ahora todo Fixture es gratis.** Las formaciones, la figura del partido, la
+planilla de cada jugador, todas las estadísticas, los avisos de todos los
+partidos y el widget con todos tus equipos, para todos. Para sostenerla sumamos
+publicidad que no molesta: algunos anuncios entre los partidos del día y uno en
+la ficha, siempre marcados, sin tapar nada ni saltar en pantalla completa. Con
+PRO, un café por mes, no ves ningún anuncio.
+
 🏆 **Simulá las copas, hasta el campeón.** En la solapa Llaves, tocá
 "Simular": elegí quién pasa en cada cruce o cargá el marcador, con ida, vuelta
 y penales, y el ganador sube solo hasta la final. Se guarda y se comparte como

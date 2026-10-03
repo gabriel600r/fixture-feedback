@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Ligas Ao Vivo</h1>
-  <p><b>Resultados ao vivo, escalações, tabelas e chaves. 34 competições, sem anúncios.</b></p>
+  <p><b>Resultados ao vivo, escalações, tabelas e chaves. 34 competições, tudo grátis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" alt="Disponível no Google Play" height="76"/>
@@ -26,7 +26,7 @@
 
 ## O futebol não para. O app também não.
 
-Fixture Fútbol é o app para acompanhar as ligas e copas que importam para você, pelo celular e sem anúncios. Você escolhe suas competições e o app baixa só essas.
+Fixture Fútbol é o app para acompanhar as ligas e copas que importam para você, pelo celular, grátis e completo. Você escolhe suas competições e o app baixa só essas.
 
 ### ⚽ 34 competições
 
@@ -46,17 +46,17 @@ Placar e minuto que se atualizam sozinhos. Enquanto seu time joga, a partida fic
 
 ### 🔮 Novo: simule como termina
 
-Preencha os resultados que faltam e veja como ficaria a tabela, com os critérios de desempate de cada liga. A simulação vai se completando sozinha com os resultados reais, e você compartilha como imagem.
+Preencha os resultados que faltam e veja como ficaria a tabela, com os critérios de desempate de cada liga. A simulação vai se completando sozinha com os resultados reais, e você compartilha como imagem. E nas copas, escolha quem avança em cada confronto até o campeão.
 
 ### 📱 O widget na tela inicial
 
-Antes do jogo, o canal e a posição de cada time. Ao vivo, ele acende e mostra os gols. No fim, como ficou a tabela e o próximo jogo. Nos dias sem jogo, os próximos jogos dos seus times, com setas e bandeiras. Você adiciona pelo menu do app.
+Antes do jogo, o canal e a posição de cada time. Ao vivo, ele acende e mostra os gols. No fim, como ficou a tabela e o próximo jogo. Nos dias sem jogo, os próximos jogos dos seus times, com setas e bandeiras. Você adiciona pelo menu do app, com todos os seus times, não só um.
 
 ### 🔔 Avisos que chegam
 
 Gol, início e fim das partidas que você escolher. O aviso de gol diz quem fez e quem deu a assistência. E se o VAR anular, avisamos que aquele gol não existe mais.
 
-Você escolhe quais quer: pode pedir só os gols e nada mais. Marca seus times favoritos ou põe o sininho em um jogo avulso.
+Você escolhe quais quer: pode pedir só os gols e nada mais. Marca seus times favoritos, põe o sininho em um jogo avulso ou pede os avisos de todas as partidas.
 
 ### 📋 A partida, num relance
 
@@ -65,6 +65,10 @@ Gols, cartões e substituições em uma lista só, com o mais recente em cima, e
 ### 👕 Escalações no campo
 
 Os onze postados em campo e os reservas no banco. Toque em um jogador e ali estão a idade, a altura, o pé e a nacionalidade.
+
+### ⭐ O craque e as estatísticas
+
+O craque da partida e, na maioria das competições, a ficha de cada jogador: nota, gols, passes e desarmes. E as estatísticas detalhadas: chutes no gol, passes, escanteios, defesas e mais.
 
 ### 📈 Tabelas de classificação
 
@@ -115,13 +119,13 @@ O app está em português, espanhol, inglês, italiano e francês, e se escolhe 
 
 O Fixture nasceu para jogar em família: um fixture da Copa para acompanharmos os jogos entre nós. Saiu do controle e, quando a Copa terminou, decidi seguir com as ligas.
 
-**Aqui não há anúncios, e não vai haver.** Não é postura de marketing: eles arruínam a experiência. Você abre para ver um resultado e tem que desviar de um banner.
+Até a versão 1.9.123 não havia anúncios, e uma parte do app era liberada com o café. **Desde a 1.9.124 é o contrário: tudo está aberto para todos.** As escalações, o craque da partida, a ficha de cada jogador, as estatísticas detalhadas, os avisos de todas as partidas, o widget com todos os seus times: nada fica bloqueado.
 
-O contra é que sem anúncios o app não se paga sozinho: os servidores e os dados ao vivo custam dinheiro todo mês. A única forma de isso continuar é entre todos, com **um café por mês** dentro do próprio app. Sozinho é pouco; entre muitos, dá.
+O que mantém o app são **anúncios que não atrapalham**: alguns entre os jogos do dia e um na ficha da partida, sempre marcados como publicidade. Nunca tapam o jogo nem abrem em tela cheia. Os servidores e os dados ao vivo custam dinheiro todo mês, e é assim que continuam funcionando.
 
-Os resultados ao vivo, os avisos dos seus times, as tabelas, as chaves, o simulador e o histórico são **gratuitos e vão continuar sendo**. O café acrescenta as escalações desenhadas em campo, o craque da partida, a ficha de cada jogador, as estatísticas detalhadas, os avisos de todas as partidas, o widget com todos os seus times e uma simulação salva por competição. E, se quiser, seu nome aparece no mural, dentro do app.
+Se você prefere não vê-los, **com o PRO — um café por mês — você não vê nenhum anúncio**, seu nome aparece no mural do app e você salva uma simulação por competição. Cancele quando quiser na Google Play.
 
-Obrigado a quem já pagou um. ⚽
+Obrigado a quem já entrou. ⚽
 
 ---
 
@@ -146,7 +150,7 @@ Vêm de um provedor de dados esportivos. Às vezes ele demora a confirmar um gol
 
 ## Privacidade
 
-O app **não pede conta nem cadastro**. O que você escolhe (times favoritos, ligas, avisos) fica guardado no seu celular, não em um servidor. A compra do café é feita pela Google Play; nós não vemos nem guardamos dados do seu cartão.
+O app **não pede conta nem cadastro**. O que você escolhe (times favoritos, ligas, avisos) fica guardado no seu celular, não em um servidor. A compra do café é feita pela Google Play; nós não vemos nem guardamos dados do seu cartão. Os anúncios são servidos pelo Google AdMob, que pode usar o ID de publicidade do seu celular para escolhê-los; na Europa e no Reino Unido o app pede seu consentimento antes. Com o PRO, nenhum anúncio é solicitado.
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol : Championnats En Direct</h1>
-  <p><b>Résultats en direct, compositions, classements et tableaux. 34 compétitions, sans publicité.</b></p>
+  <p><b>Résultats en direct, compositions, classements et tableaux. 34 compétitions, tout gratuit.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" height="76"/>
@@ -26,7 +26,7 @@
 
 ## Le football ne s'arrête pas. L'appli non plus.
 
-Fixture Fútbol est l'appli pour suivre les championnats et les coupes qui vous intéressent, depuis votre téléphone et sans publicité. Vous choisissez vos compétitions et l'appli ne télécharge que celles-là.
+Fixture Fútbol est l'appli pour suivre les championnats et les coupes qui vous intéressent, depuis votre téléphone, gratuite et complète. Vous choisissez vos compétitions et l'appli ne télécharge que celles-là.
 
 ### ⚽ 34 compétitions
 
@@ -46,17 +46,17 @@ Score et minute qui se mettent à jour tout seuls. Pendant que votre équipe jou
 
 ### 🔮 Nouveau : simulez comment ça finit
 
-Entrez les résultats manquants et voyez comment finirait le classement, avec les critères de départage de chaque championnat. Votre simulation se complète seule avec les vrais résultats, et vous la partagez en image.
+Entrez les résultats manquants et voyez comment finirait le classement, avec les critères de départage de chaque championnat. Votre simulation se complète seule avec les vrais résultats, et vous la partagez en image. Et dans les coupes, choisissez qui passe à chaque tour, jusqu'au champion.
 
 ### 📱 Le widget sur l'écran d'accueil
 
-Avant le match, la chaîne et le rang de chaque équipe. En direct, il s'allume et affiche les buts. À la fin, le classement et le prochain match. Les jours sans match, les prochains matchs de vos équipes, avec flèches et drapeaux. Vous l'ajoutez depuis le menu de l'appli.
+Avant le match, la chaîne et le rang de chaque équipe. En direct, il s'allume et affiche les buts. À la fin, le classement et le prochain match. Les jours sans match, les prochains matchs de vos équipes, avec flèches et drapeaux. Vous l'ajoutez depuis le menu de l'appli, avec toutes vos équipes, pas seulement une.
 
 ### 🔔 Des alertes qui arrivent
 
 But, coup d'envoi et fin des matchs que vous choisissez. L'alerte de but indique qui l'a marqué et qui a donné la passe décisive. Et si la VAR l'annule, on vous prévient que ce but n'existe plus.
 
-Vous choisissez lesquelles vous voulez : vous pouvez ne demander que les buts, et rien d'autre. Vous marquez vos équipes favorites, ou vous activez la cloche sur un match isolé.
+Vous choisissez lesquelles vous voulez : vous pouvez ne demander que les buts, et rien d'autre. Vous marquez vos équipes favorites, vous activez la cloche sur un match isolé, ou vous demandez les alertes de tous les matchs.
 
 ### 📋 Le match en un coup d'œil
 
@@ -65,6 +65,10 @@ Buts, cartons et remplacements dans une seule liste, le plus récent en haut, et
 ### 👕 Compositions sur le terrain
 
 Les onze placés sur le terrain et les remplaçants sur le banc. Touchez un joueur et vous avez son âge, sa taille, son pied et sa nationalité.
+
+### ⭐ L'homme du match et les statistiques
+
+L'homme du match et, dans la plupart des compétitions, la fiche de chaque joueur : note, buts, passes et tacles. Et les statistiques détaillées : tirs cadrés, passes, corners, arrêts et plus.
 
 ### 📈 Classements
 
@@ -115,13 +119,13 @@ L'appli est en français, en espagnol, en anglais, en portugais et en italien, a
 
 Fixture est née pour jouer en famille : un calendrier de la Coupe du monde pour suivre les matchs entre nous. Ça a pris de l'ampleur, et quand la Coupe du monde s'est terminée, j'ai décidé de continuer avec les championnats.
 
-**Ici il n'y a pas de publicité, et il n'y en aura pas.** Ce n'est pas une posture marketing : elle gâche l'expérience. Vous ouvrez pour voir un résultat et vous devez esquiver une bannière.
+Jusqu'à la version 1.9.123, il n'y avait pas de publicité, et une partie de l'appli se débloquait avec le café. **Depuis la 1.9.124, c'est l'inverse : tout est ouvert à tout le monde.** Les compositions, l'homme du match, la fiche de chaque joueur, les statistiques détaillées, les alertes de tous les matchs, le widget avec toutes vos équipes : plus rien n'est bloqué.
 
-Le revers, c'est que sans publicité l'appli ne se paie pas toute seule : les serveurs et les données en direct coûtent de l'argent chaque mois. La seule façon que cela continue, c'est ensemble, avec **un café par mois** depuis l'appli elle-même. Seul c'est peu ; à plusieurs, cela suffit.
+Ce qui la fait vivre, ce sont **des publicités qui ne gênent pas** : quelques-unes entre les matchs du jour et une dans la fiche du match, toujours signalées comme publicité. Elles ne cachent jamais le match et ne s'ouvrent jamais en plein écran. Les serveurs et les données en direct coûtent de l'argent chaque mois, et c'est ainsi qu'ils continuent de tourner.
 
-Les résultats en direct, les alertes de vos équipes, les classements, les tableaux, le simulateur et l'historique sont **gratuits et le resteront**. Le café ajoute les compositions dessinées sur le terrain, l'homme du match, la fiche de chaque joueur, les statistiques détaillées, les alertes de tous les matchs, le widget avec toutes vos équipes et une simulation enregistrée par compétition. Et si vous le souhaitez, votre nom apparaît sur le mur, dans l'appli.
+Si vous préférez ne pas les voir, **avec PRO — un café par mois — vous ne voyez aucune publicité**, votre nom apparaît sur le mur de l'appli et vous gardez une simulation par compétition. Résiliable à tout moment sur Google Play.
 
-Merci à celles et ceux qui en ont déjà offert un. ⚽
+Merci à celles et ceux qui nous ont déjà rejoints. ⚽
 
 ---
 
@@ -146,7 +150,7 @@ Elles viennent d'un fournisseur de données sportives. Il met parfois du temps �
 
 ## Confidentialité
 
-L'appli **ne demande ni compte ni inscription**. Ce que vous choisissez (équipes favorites, championnats, alertes) est enregistré sur votre téléphone, pas sur un serveur. L'achat du café est géré par Google Play ; nous ne voyons ni ne conservons les données de votre carte.
+L'appli **ne demande ni compte ni inscription**. Ce que vous choisissez (équipes favorites, championnats, alertes) est enregistré sur votre téléphone, pas sur un serveur. L'achat du café est géré par Google Play ; nous ne voyons ni ne conservons les données de votre carte. Les publicités sont fournies par Google AdMob, qui peut utiliser l'identifiant publicitaire de votre téléphone pour les choisir ; en Europe et au Royaume-Uni, l'appli vous demande d'abord votre consentement. Avec PRO, aucune publicité n'est demandée.
 
 ---
 

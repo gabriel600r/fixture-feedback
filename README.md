@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Ligas En Vivo</h1>
-  <p><b>Resultados en vivo, formaciones, tablas y llaves. 34 competencias, sin publicidad.</b></p>
+  <p><b>Resultados en vivo, formaciones, tablas y llaves. 34 competencias, todo gratis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Disponible en Google Play" height="76"/>
@@ -26,7 +26,7 @@
 
 ## El fútbol no para. La app tampoco.
 
-Fixture Fútbol es la app para seguir las ligas y copas que te importan, desde el celular y sin publicidad. Elegís tus competencias y la app baja sólo esas.
+Fixture Fútbol es la app para seguir las ligas y copas que te importan, desde el celular, gratis y completa. Elegís tus competencias y la app baja sólo esas.
 
 ### ⚽ 34 competencias
 
@@ -46,17 +46,17 @@ Marcador y minuto que se actualizan solos. Mientras juega tu equipo, el partido 
 
 ### 🔮 Nuevo: simulá cómo termina
 
-Cargá los resultados que faltan y mirá cómo quedaría la tabla, con el reglamento de desempate de cada liga. Se va cumpliendo sola con los resultados reales, y la compartís como imagen.
+Cargá los resultados que faltan y mirá cómo quedaría la tabla, con el reglamento de desempate de cada liga. Se va cumpliendo sola con los resultados reales, y la compartís como imagen. Y en las copas, elegí quién pasa en cada cruce hasta el campeón.
 
 ### 📱 El widget en la pantalla
 
-Antes del partido, el canal y el puesto de cada equipo. En vivo se ilumina y marca los goles. Al terminar, cómo quedó en la tabla y el próximo partido. Los días sin partido, los próximos de tus equipos, con flechas y banderas. Lo agregás desde el menú de la app.
+Antes del partido, el canal y el puesto de cada equipo. En vivo se ilumina y marca los goles. Al terminar, cómo quedó en la tabla y el próximo partido. Los días sin partido, los próximos de tus equipos, con flechas y banderas. Lo agregás desde el menú de la app, con todos tus equipos, no sólo uno.
 
 ### 🔔 Avisos que llegan
 
 Gol, arranque y final de los partidos que elegís. El aviso de gol dice quién lo hizo y quién dio la asistencia. Y si el VAR lo anula, te avisamos que ese gol ya no está.
 
-Elegís cuáles querés: podés pedir sólo los goles y nada más. Marcás tus equipos favoritos, o ponés la campanita en un partido suelto.
+Elegís cuáles querés: podés pedir sólo los goles y nada más. Marcás tus equipos favoritos, ponés la campanita en un partido suelto o pedís los avisos de todos los partidos.
 
 ### 📋 El partido, de un vistazo
 
@@ -65,6 +65,10 @@ Goles, tarjetas y cambios en una sola lista, con lo último arriba, y cada tiemp
 ### 👕 Formaciones en la cancha
 
 Los once parados en el campo y los suplentes en el banco. Tocá a un jugador y ahí están su edad, altura, pie y nacionalidad.
+
+### ⭐ La figura y las estadísticas
+
+La figura del partido y, en la mayoría de las competencias, la planilla de cada jugador: puntaje, goles, pases y quites. Y las estadísticas finas: remates al arco, pases, córners, atajadas y más.
 
 ### 📈 Tablas de posiciones
 
@@ -116,13 +120,13 @@ La app está en español, inglés, portugués, italiano y francés, y se elige e
 
 Fixture nació para jugar en familia: un fixture del Mundial para seguir los partidos entre nosotros. Se fue de las manos, y cuando el Mundial terminó decidí seguir con las ligas.
 
-**Acá no hay publicidad, y no la va a haber.** No es una postura de marketing: arruina la experiencia. Abrís para ver un resultado y tenés que esquivar un cartel.
+Hasta la versión 1.9.123 no había publicidad, y una parte de la app se desbloqueaba con el café. **Desde la 1.9.124 es al revés: todo está abierto para todos.** Las formaciones, la figura, la planilla de cada jugador, las estadísticas finas, los avisos de todos los partidos, el widget con todos tus equipos: nada queda bloqueado.
 
-La contra es que sin publicidad la app no se paga sola: los servidores y los datos en vivo salen plata todos los meses. La única forma de que esto siga es entre todos, con **un café por mes** desde la propia app. Solo es poco; entre muchos, alcanza.
+Lo que la sostiene es **publicidad que no molesta**: algunos anuncios entre los partidos del día y uno en la ficha del partido, siempre marcados como publicidad. Nunca tapan el partido ni saltan en pantalla completa. Los servidores y los datos en vivo salen plata todos los meses, y así siguen andando.
 
-Los resultados en vivo, los avisos de tus equipos, las tablas, las llaves, el simulador y el histórico son **gratis y van a seguir siéndolo**. El café suma las formaciones dibujadas en la cancha, la figura del partido, la planilla de cada jugador, las estadísticas finas, los avisos de todos los partidos, el widget con todos tus equipos y una simulación guardada por cada competencia. Y si querés, tu nombre aparece en el muro, adentro de la app.
+Si preferís no verla, **con PRO —un café por mes— no ves ningún anuncio**, tu nombre aparece en el muro de la app y guardás una simulación por cada competencia. Te das de baja cuando quieras desde Google Play.
 
-Gracias a los que ya pusieron uno. ⚽
+Gracias a los que ya se sumaron. ⚽
 
 ---
 
@@ -147,7 +151,7 @@ Vienen de un proveedor de datos deportivos. A veces tarda en confirmar un gol o 
 
 ## Privacidad
 
-La app **no pide cuenta ni registro**. Lo que elegís (equipos favoritos, ligas, avisos) queda guardado en tu teléfono, no en un servidor. La compra del café la maneja Google Play; nosotros no vemos ni guardamos datos de tu tarjeta.
+La app **no pide cuenta ni registro**. Lo que elegís (equipos favoritos, ligas, avisos) queda guardado en tu teléfono, no en un servidor. La compra del café la maneja Google Play; nosotros no vemos ni guardamos datos de tu tarjeta. Los anuncios los sirve Google AdMob, que puede usar el identificador de publicidad de tu teléfono para elegirlos; en Europa y el Reino Unido la app te pide permiso antes. Con PRO no se pide ningún anuncio.
 
 ---
 

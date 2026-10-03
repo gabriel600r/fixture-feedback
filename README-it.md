@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Campionati In Diretta</h1>
-  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 34 competizioni, senza pubblicità.</b></p>
+  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 34 competizioni, tutto gratis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/it_badge_web_generic.png" alt="Disponibile su Google Play" height="76"/>
@@ -26,7 +26,7 @@
 
 ## Il calcio non si ferma. L'app nemmeno.
 
-Fixture Fútbol è l'app per seguire i campionati e le coppe che ti interessano, dal telefono e senza pubblicità. Scegli le tue competizioni e l'app scarica solo quelle.
+Fixture Fútbol è l'app per seguire i campionati e le coppe che ti interessano, dal telefono, gratis e completa. Scegli le tue competizioni e l'app scarica solo quelle.
 
 ### ⚽ 34 competizioni
 
@@ -46,17 +46,17 @@ Risultato e minuto che si aggiornano da soli. Mentre gioca la tua squadra, la pa
 
 ### 🔮 Novità: simula come finisce
 
-Inserisci i risultati mancanti e guarda come finirebbe la classifica, con i criteri di parità di ogni campionato. Si completa da sola con i risultati veri e la condividi come immagine.
+Inserisci i risultati mancanti e guarda come finirebbe la classifica, con i criteri di parità di ogni campionato. Si completa da sola con i risultati veri e la condividi come immagine. E nelle coppe, scegli chi passa in ogni sfida fino al campione.
 
 ### 📱 Il widget nella schermata Home
 
-Prima della partita, il canale e la posizione di ogni squadra. In diretta si accende e mostra i gol. A fine partita, la classifica aggiornata e il prossimo impegno. Nei giorni senza partite, i prossimi impegni delle tue squadre, con frecce e bandiere. Lo aggiungi dal menu dell'app.
+Prima della partita, il canale e la posizione di ogni squadra. In diretta si accende e mostra i gol. A fine partita, la classifica aggiornata e il prossimo impegno. Nei giorni senza partite, i prossimi impegni delle tue squadre, con frecce e bandiere. Lo aggiungi dal menu dell'app, con tutte le tue squadre, non solo una.
 
 ### 🔔 Avvisi che arrivano
 
 Gol, inizio e fine delle partite che scegli. L'avviso del gol dice chi l'ha segnato e chi ha servito l'assist. E se il VAR lo annulla, ti avvisiamo che quel gol non c'è più.
 
-Scegli quali vuoi: puoi chiedere solo i gol e nient'altro. Segni le tue squadre del cuore, oppure metti la campanella su una singola partita.
+Scegli quali vuoi: puoi chiedere solo i gol e nient'altro. Segni le tue squadre del cuore, metti la campanella su una singola partita oppure chiedi gli avvisi di tutte le partite.
 
 ### 📋 La partita a colpo d'occhio
 
@@ -65,6 +65,10 @@ Gol, cartellini e sostituzioni in un unico elenco, con l'ultimo in cima, e ogni 
 ### 👕 Formazioni in campo
 
 Gli undici schierati sul campo e le riserve in panchina. Tocca un giocatore e trovi età, altezza, piede e nazionalità.
+
+### ⭐ Il migliore in campo e le statistiche
+
+Il migliore in campo e, nella maggior parte delle competizioni, la scheda di ogni giocatore: voto, gol, passaggi e contrasti. E le statistiche di dettaglio: tiri in porta, passaggi, corner, parate e altro.
 
 ### 📈 Classifiche
 
@@ -115,13 +119,13 @@ L'app è in italiano, spagnolo, inglese, portoghese e francese, e si sceglie nel
 
 Fixture è nata per giocare in famiglia: un calendario del Mondiale per seguire le partite tra di noi. È sfuggita di mano e, quando il Mondiale è finito, ho deciso di andare avanti con i campionati.
 
-**Qui non c'è pubblicità, e non ci sarà.** Non è una posa di marketing: rovina l'esperienza. Apri per vedere un risultato e devi schivare un banner.
+Fino alla versione 1.9.123 non c'era pubblicità, e una parte dell'app si sbloccava con il caffè. **Dalla 1.9.124 è il contrario: tutto è aperto a tutti.** Le formazioni, il migliore in campo, la scheda di ogni giocatore, le statistiche di dettaglio, gli avvisi di tutte le partite, il widget con tutte le tue squadre: niente resta bloccato.
 
-Il rovescio della medaglia è che senza pubblicità l'app non si paga da sola: i server e i dati in diretta costano ogni mese. L'unico modo perché questo continui è farlo insieme, con **un caffè al mese** dall'app stessa. Da solo è poco; in tanti, basta.
+A sostenerla è **una pubblicità che non disturba**: qualche annuncio tra le partite del giorno e uno nella scheda della partita, sempre indicati come pubblicità. Non coprono mai la partita né si aprono a schermo intero. I server e i dati in diretta costano ogni mese, ed è così che restano accesi.
 
-I risultati in diretta, gli avvisi delle tue squadre, le classifiche, i tabelloni, il simulatore e lo storico sono **gratis e lo resteranno**. Il caffè aggiunge le formazioni disegnate in campo, il migliore in campo, la scheda di ogni giocatore, le statistiche di dettaglio, gli avvisi di tutte le partite, il widget con tutte le tue squadre e una simulazione salvata per ogni competizione. E, se vuoi, il tuo nome compare sul muro, dentro l'app.
+Se preferisci non vederla, **con PRO — un caffè al mese — non vedi nessun annuncio**, il tuo nome compare sul muro dell'app e salvi una simulazione per ogni competizione. Puoi disdire quando vuoi da Google Play.
 
-Grazie a chi ne ha già offerto uno. ⚽
+Grazie a chi si è già unito. ⚽
 
 ---
 
@@ -146,7 +150,7 @@ Arrivano da un fornitore di dati sportivi. A volte ci mette un po' a confermare 
 
 ## Privacy
 
-L'app **non chiede account né registrazione**. Quello che scegli (squadre del cuore, campionati, avvisi) resta salvato sul tuo telefono, non su un server. L'acquisto del caffè lo gestisce Google Play; noi non vediamo né conserviamo i dati della tua carta.
+L'app **non chiede account né registrazione**. Quello che scegli (squadre del cuore, campionati, avvisi) resta salvato sul tuo telefono, non su un server. L'acquisto del caffè lo gestisce Google Play; noi non vediamo né conserviamo i dati della tua carta. Gli annunci li fornisce Google AdMob, che può usare l'ID pubblicità del tuo telefono per sceglierli; in Europa e nel Regno Unito l'app ti chiede prima il consenso. Con PRO non viene richiesto nessun annuncio.
 
 ---
 
