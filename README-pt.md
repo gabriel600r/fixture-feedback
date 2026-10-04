@@ -121,7 +121,7 @@ O Fixture nasceu para jogar em família: um fixture da Copa para acompanharmos o
 
 Até a versão 1.9.123 não havia anúncios, e uma parte do app era liberada com o café. **Desde a 1.9.124 é o contrário: tudo está aberto para todos.** As escalações, o craque da partida, a ficha de cada jogador, as estatísticas detalhadas, os avisos de todas as partidas, o widget com todos os seus times: nada fica bloqueado.
 
-O que mantém o app são **anúncios que não atrapalham**: alguns entre os jogos do dia e um na ficha da partida, sempre marcados como publicidade. Nunca tapam o jogo nem abrem em tela cheia. Os servidores e os dados ao vivo custam dinheiro todo mês, e é assim que continuam funcionando.
+O que mantém o app são **anúncios que não atrapalham**: alguns entre os jogos, um na tabela de cada torneio e um na ficha da partida, sempre marcados como publicidade. Nunca tapam o jogo nem abrem em tela cheia. Os servidores e os dados ao vivo custam dinheiro todo mês, e é assim que continuam funcionando.
 
 Se você prefere não vê-los, **com o PRO — um café por mês — você não vê nenhum anúncio**, seu nome aparece no mural do app e você salva uma simulação por competição. Cancele quando quiser na Google Play.
 
