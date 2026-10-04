@@ -11,8 +11,8 @@ la fecha, sin número de versión.
 🔓 **Ahora todo Fixture es gratis.** Las formaciones, la figura del partido, la
 planilla de cada jugador, todas las estadísticas, los avisos de todos los
 partidos y el widget con todos tus equipos, para todos. Para sostenerla sumamos
-publicidad que no molesta: algunos anuncios entre los partidos, uno en la tabla
-de cada torneo y uno en la ficha, siempre marcados, sin tapar nada ni saltar en
+publicidad que no molesta: algunos anuncios entre los partidos y en las tablas
+de cada torneo, y uno en la ficha, siempre marcados, sin tapar nada ni saltar en
 pantalla completa. Con PRO, un café por mes, no ves ningún anuncio.
 
 🏆 **Simulá las copas, hasta el campeón.** En la solapa Llaves, tocá

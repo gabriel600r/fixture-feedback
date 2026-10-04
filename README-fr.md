@@ -121,7 +121,7 @@ Fixture est née pour jouer en famille : un calendrier de la Coupe du monde pour
 
 Jusqu'à la version 1.9.123, il n'y avait pas de publicité, et une partie de l'appli se débloquait avec le café. **Depuis la 1.9.124, c'est l'inverse : tout est ouvert à tout le monde.** Les compositions, l'homme du match, la fiche de chaque joueur, les statistiques détaillées, les alertes de tous les matchs, le widget avec toutes vos équipes : plus rien n'est bloqué.
 
-Ce qui la fait vivre, ce sont **des publicités qui ne gênent pas** : quelques-unes entre les matchs, une dans le classement de chaque compétition et une dans la fiche du match, toujours signalées comme publicité. Elles ne cachent jamais le match et ne s'ouvrent jamais en plein écran. Les serveurs et les données en direct coûtent de l'argent chaque mois, et c'est ainsi qu'ils continuent de tourner.
+Ce qui la fait vivre, ce sont **des publicités qui ne gênent pas** : quelques-unes entre les matchs et dans les classements de chaque compétition, et une dans la fiche du match, toujours signalées comme publicité. Elles ne cachent jamais le match et ne s'ouvrent jamais en plein écran. Les serveurs et les données en direct coûtent de l'argent chaque mois, et c'est ainsi qu'ils continuent de tourner.
 
 Si vous préférez ne pas les voir, **avec PRO — un café par mois — vous ne voyez aucune publicité**, votre nom apparaît sur le mur de l'appli et vous gardez une simulation par compétition. Résiliable à tout moment sur Google Play.
 
