@@ -111,6 +111,7 @@ O app está em português, espanhol, inglês, italiano e francês, e se escolhe 
   <img src="./assets/pt/captura5.png" width="24%"/>
   <img src="./assets/pt/captura6.png" width="24%"/>
   <img src="./assets/pt/captura7.png" width="24%"/>
+  <img src="./assets/pt/captura8.png" width="24%"/>
 </div>
 
 ---

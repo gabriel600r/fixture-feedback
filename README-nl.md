@@ -95,6 +95,7 @@ De app draait op reclame die niet stoort: tussen de wedstrijden, in de standen e
   <img src="./assets/en/captura5.png" width="24%"/>
   <img src="./assets/en/captura6.png" width="24%"/>
   <img src="./assets/en/captura7.png" width="24%"/>
+  <img src="./assets/en/captura8.png" width="24%"/>
 </div>
 
 ---

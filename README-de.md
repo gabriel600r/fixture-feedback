@@ -93,6 +93,7 @@ Die App finanziert sich über Werbung, die nicht stört: Sie steht zwischen den 
   <img src="./assets/en/captura5.png" width="24%"/>
   <img src="./assets/en/captura6.png" width="24%"/>
   <img src="./assets/en/captura7.png" width="24%"/>
+  <img src="./assets/en/captura8.png" width="24%"/>
 </div>
 
 ---

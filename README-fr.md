@@ -111,6 +111,7 @@ L'appli est en français, en espagnol, en anglais, en portugais et en italien, a
   <img src="./assets/fr/captura5.png" width="24%"/>
   <img src="./assets/fr/captura6.png" width="24%"/>
   <img src="./assets/fr/captura7.png" width="24%"/>
+  <img src="./assets/fr/captura8.png" width="24%"/>
 </div>
 
 ---
