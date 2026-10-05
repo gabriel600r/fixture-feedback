@@ -74,9 +74,9 @@ Die 104 Spiele vom Juni und Juli sind weiter in der App: Ergebnisse, Gruppen, K.
 
 ---
 
-## 💚 ALLES GRATIS, UND OHNE WERBUNG MIT PRO
+## 💚 OHNE WERBUNG MIT PRO
 
-All das ist gratis, für alle. Die App finanziert sich über Werbung, die nicht stört: Sie steht zwischen den Spielen, in den Tabellen und in der Spielansicht, verdeckt nie das Spiel und öffnet sich nie im Vollbild. Mit PRO, einem Kaffee im Monat, siehst du keine Werbung, dein Name steht an der Wand in der App, und du speicherst eine Simulation pro Wettbewerb. Jederzeit über Google Play kündbar.
+Die App finanziert sich über Werbung, die nicht stört: Sie steht zwischen den Spielen, in den Tabellen und in der Spielansicht, verdeckt nie das Spiel und öffnet sich nie im Vollbild. Mit PRO, einem Kaffee im Monat, siehst du keine Werbung, dein Name steht an der Wand der Unterstützer des Projekts, und du speicherst eine Simulation pro Wettbewerb. Jederzeit über Google Play kündbar.
 
 ---
 

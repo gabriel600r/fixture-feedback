@@ -119,11 +119,9 @@ The app is in English, Spanish, Portuguese, Italian and French, chosen in Settin
 
 Fixture started as a family thing: a World Cup fixture list so we could follow the matches between us. It got out of hand, and when the World Cup ended I decided to carry on with the leagues.
 
-Up to version 1.9.123 there were no ads, and part of the app was unlocked with the coffee. **From 1.9.124 it's the other way round: everything is open to everyone.** Line-ups, the player of the match, each player's stat sheet, the fine-grained statistics, alerts for every match, the widget with all your teams: nothing is locked.
+To keep it running and growing, since 1.9.124 it's kept going by **ads that stay out of the way**: a few between the matches and in each tournament's tables, and one in the match sheet, always labelled as ads. They never cover the match or pop up full screen. The servers and the live data cost money every month, and this is how they keep running.
 
-What keeps it going is **ads that stay out of the way**: a few between the matches and in each tournament's tables, and one in the match sheet, always labelled as ads. They never cover the match or pop up full screen. The servers and the live data cost money every month, and this is how they keep running.
-
-If you'd rather not see them, **with PRO — a coffee a month — you see no ads at all**, your name appears on the wall inside the app, and you keep one saved simulation per competition. Cancel whenever you want from Google Play.
+If you'd rather not see them, **with PRO — a coffee a month — you see no ads at all**, your name appears on the wall of the people backing the project, and you keep one saved simulation per competition. Cancel whenever you want from Google Play.
 
 Thanks to everyone who has already joined. ⚽
 

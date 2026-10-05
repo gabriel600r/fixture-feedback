@@ -119,11 +119,9 @@ L'app è in italiano, spagnolo, inglese, portoghese e francese, e si sceglie nel
 
 Fixture è nata per giocare in famiglia: un calendario del Mondiale per seguire le partite tra di noi. È sfuggita di mano e, quando il Mondiale è finito, ho deciso di andare avanti con i campionati.
 
-Fino alla versione 1.9.123 non c'era pubblicità, e una parte dell'app si sbloccava con il caffè. **Dalla 1.9.124 è il contrario: tutto è aperto a tutti.** Le formazioni, il migliore in campo, la scheda di ogni giocatore, le statistiche di dettaglio, gli avvisi di tutte le partite, il widget con tutte le tue squadre: niente resta bloccato.
+Per mantenerla e farla crescere, dalla 1.9.124 a sostenerla è **una pubblicità che non disturba**: qualche annuncio tra le partite e nelle classifiche di ogni torneo, e uno nella scheda della partita, sempre indicati come pubblicità. Non coprono mai la partita né si aprono a schermo intero. I server e i dati in diretta costano ogni mese, ed è così che restano accesi.
 
-A sostenerla è **una pubblicità che non disturba**: qualche annuncio tra le partite e nelle classifiche di ogni torneo, e uno nella scheda della partita, sempre indicati come pubblicità. Non coprono mai la partita né si aprono a schermo intero. I server e i dati in diretta costano ogni mese, ed è così che restano accesi.
-
-Se preferisci non vederla, **con PRO — un caffè al mese — non vedi nessun annuncio**, il tuo nome compare sul muro dell'app e salvi una simulazione per ogni competizione. Puoi disdire quando vuoi da Google Play.
+Se preferisci non vederla, **con PRO — un caffè al mese — non vedi nessun annuncio**, il tuo nome compare sul muro di chi sostiene il progetto e salvi una simulazione per ogni competizione. Puoi disdire quando vuoi da Google Play.
 
 Grazie a chi si è già unito. ⚽
 

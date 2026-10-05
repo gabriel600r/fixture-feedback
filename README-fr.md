@@ -119,11 +119,9 @@ L'appli est en français, en espagnol, en anglais, en portugais et en italien, a
 
 Fixture est née pour jouer en famille : un calendrier de la Coupe du monde pour suivre les matchs entre nous. Ça a pris de l'ampleur, et quand la Coupe du monde s'est terminée, j'ai décidé de continuer avec les championnats.
 
-Jusqu'à la version 1.9.123, il n'y avait pas de publicité, et une partie de l'appli se débloquait avec le café. **Depuis la 1.9.124, c'est l'inverse : tout est ouvert à tout le monde.** Les compositions, l'homme du match, la fiche de chaque joueur, les statistiques détaillées, les alertes de tous les matchs, le widget avec toutes vos équipes : plus rien n'est bloqué.
+Pour la faire vivre et la faire grandir, depuis la 1.9.124, on compte sur **des publicités qui ne gênent pas** : quelques-unes entre les matchs et dans les classements de chaque compétition, et une dans la fiche du match, toujours signalées comme publicité. Elles ne cachent jamais le match et ne s'ouvrent jamais en plein écran. Les serveurs et les données en direct coûtent de l'argent chaque mois, et c'est ainsi qu'ils continuent de tourner.
 
-Ce qui la fait vivre, ce sont **des publicités qui ne gênent pas** : quelques-unes entre les matchs et dans les classements de chaque compétition, et une dans la fiche du match, toujours signalées comme publicité. Elles ne cachent jamais le match et ne s'ouvrent jamais en plein écran. Les serveurs et les données en direct coûtent de l'argent chaque mois, et c'est ainsi qu'ils continuent de tourner.
-
-Si vous préférez ne pas les voir, **avec PRO — un café par mois — vous ne voyez aucune publicité**, votre nom apparaît sur le mur de l'appli et vous gardez une simulation par compétition. Résiliable à tout moment sur Google Play.
+Si vous préférez ne pas les voir, **avec PRO — un café par mois — vous ne voyez aucune publicité**, votre nom apparaît sur le mur de celles et ceux qui soutiennent le projet et vous gardez une simulation par compétition. Résiliable à tout moment sur Google Play.
 
 Merci à celles et ceux qui nous ont déjà rejoints. ⚽
 

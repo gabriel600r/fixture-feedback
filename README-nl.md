@@ -76,9 +76,9 @@ De 104 wedstrijden van juni en juli zitten nog in de app: uitslagen, groepen, sc
 
 ---
 
-## 💚 ALLES GRATIS, EN ZONDER RECLAME MET PRO
+## 💚 ZONDER RECLAME MET PRO
 
-Dit alles is gratis, voor iedereen. De app draait op reclame die niet stoort: tussen de wedstrijden, in de standen en in het wedstrijdscherm, nooit over de wedstrijd heen en nooit schermvullend. Met PRO, één koffie per maand, zie je geen enkele advertentie, staat je naam op de muur in de app en bewaar je één simulatie per competitie. Opzeggen kan altijd via Google Play.
+De app draait op reclame die niet stoort: tussen de wedstrijden, in de standen en in het wedstrijdscherm, nooit over de wedstrijd heen en nooit schermvullend. Met PRO, één koffie per maand, zie je geen enkele advertentie, staat je naam op de muur van wie het project steunt en bewaar je één simulatie per competitie. Opzeggen kan altijd via Google Play.
 
 ---
 

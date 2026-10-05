@@ -76,9 +76,9 @@ Haziran ve temmuzdaki 104 maç uygulamada duruyor: sonuçlar, gruplar, eşleşme
 
 ---
 
-## 💚 HER ŞEY ÜCRETSİZ, PRO İLE REKLAMSIZ
+## 💚 PRO İLE REKLAMSIZ
 
-Bunların hepsi herkes için ücretsiz. Uygulama rahatsız etmeyen reklamlarla ayakta duruyor: reklamlar maçların arasında, puan durumlarında ve maç sayfasında yer alır, maçın önünü asla kapatmaz ve tam ekran açılmaz. Ayda bir kahve olan PRO ile hiç reklam görmezsin, adın uygulamadaki duvarda görünür ve her turnuva için bir simülasyon saklarsın. İstediğin zaman Google Play'den iptal edersin.
+Uygulama rahatsız etmeyen reklamlarla ayakta duruyor: reklamlar maçların arasında, puan durumlarında ve maç sayfasında yer alır, maçın önünü asla kapatmaz ve tam ekran açılmaz. Ayda bir kahve olan PRO ile hiç reklam görmezsin, adın projeyi destekleyenlerin duvarında görünür ve her turnuva için bir simülasyon saklarsın. İstediğin zaman Google Play'den iptal edersin.
 
 ---
 

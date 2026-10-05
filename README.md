@@ -120,11 +120,9 @@ La app está en español, inglés, portugués, italiano y francés, y se elige e
 
 Fixture nació para jugar en familia: un fixture del Mundial para seguir los partidos entre nosotros. Se fue de las manos, y cuando el Mundial terminó decidí seguir con las ligas.
 
-Hasta la versión 1.9.123 no había publicidad, y una parte de la app se desbloqueaba con el café. **Desde la 1.9.124 es al revés: todo está abierto para todos.** Las formaciones, la figura, la planilla de cada jugador, las estadísticas finas, los avisos de todos los partidos, el widget con todos tus equipos: nada queda bloqueado.
+Para mantenerla y que siga creciendo, desde la 1.9.124 la sostiene **publicidad que no molesta**: algunos anuncios entre los partidos y en las tablas de cada torneo, y uno en la ficha del partido, siempre marcados como publicidad. Nunca tapan el partido ni saltan en pantalla completa. Los servidores y los datos en vivo salen plata todos los meses, y así siguen andando.
 
-Lo que la sostiene es **publicidad que no molesta**: algunos anuncios entre los partidos y en las tablas de cada torneo, y uno en la ficha del partido, siempre marcados como publicidad. Nunca tapan el partido ni saltan en pantalla completa. Los servidores y los datos en vivo salen plata todos los meses, y así siguen andando.
-
-Si preferís no verla, **con PRO —un café por mes— no ves ningún anuncio**, tu nombre aparece en el muro de la app y guardás una simulación por cada competencia. Te das de baja cuando quieras desde Google Play.
+Si preferís no verla, **con PRO —un café por mes— no ves ningún anuncio**, tu nombre aparece en el muro de los que bancan el proyecto y guardás una simulación por cada competencia. Te das de baja cuando quieras desde Google Play.
 
 Gracias a los que ya se sumaron. ⚽
 
