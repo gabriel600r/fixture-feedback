@@ -6,6 +6,11 @@ Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
 actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
 la fecha, sin número de versión.
 
+## 1.9.125 — 14 de octubre de 2026
+
+🚀 **Mucho más rápida que antes.** La app abre antes, los escudos aparecen al
+instante, y deslizar, cambiar de solapa y abrir un partido van más suaves.
+
 ## 1.9.124 — 5 de octubre de 2026
 
 📢 **Sumamos publicidad para seguir creciendo.** Para mantener Fixture y que
