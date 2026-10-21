@@ -6,6 +6,21 @@ Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
 actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
 la fecha, sin número de versión.
 
+## 1.9.126 — 21 de octubre de 2026
+
+⚡ **Volvés al instante.** Si salís con Atrás, la app queda lista: cuando
+volvés, está ahí. Y un partido en vivo abierto desde el widget o un aviso ya
+llega actualizado.
+
+📺 **El widget en vivo, con más datos.** Mientras el partido no tiene goles ni
+tarjetas, muestra el canal de TV, el estadio y la posición con la que llegó
+cada equipo.
+
+📅 **Las fechas, en tu hora.** Las llaves, los últimos enfrentamientos y la
+ficha de cada jugador muestran el día en la hora de tu teléfono.
+
+- Arreglos menores.
+
 ## 1.9.125 — 14 de octubre de 2026
 
 🚀 **Mucho más rápida que antes.** La app abre antes, los escudos aparecen al
