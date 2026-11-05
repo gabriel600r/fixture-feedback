@@ -6,6 +6,24 @@ Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
 actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
 la fecha, sin número de versión.
 
+## 1.9.127 — 5 de noviembre de 2026
+
+📊 **Momentos del partido.** En la ficha, un gráfico muestra quién atacó en
+cada tramo del partido: remates, situaciones claras, córners y ataques de cada
+equipo, con sus goles y sus rojas. En vivo, se va completando mientras se
+juega.
+
+🏆 **La llave, de un vistazo.** En la ficha de un cruce de ida y vuelta, la
+llave va en una tabla: una columna por partido y el global, que se lee bien
+aunque los nombres sean largos. Y en Llaves, el cruce que se está jugando
+muestra el marcador y el minuto, en rojo.
+
+🏟️ **La capacidad del estadio.** En la ficha del partido, el estadio muestra
+su capacidad. Y el país del árbitro y la nacionalidad de cada jugador van en
+tu idioma.
+
+- Arreglos menores.
+
 ## 1.9.126 — 21 de octubre de 2026
 
 ⚡ **Volvés al instante.** Si salís con Atrás, la app queda lista: cuando
