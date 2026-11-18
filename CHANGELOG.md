@@ -6,6 +6,17 @@ Algunas cosas —las ligas nuevas, sobre todo— llegan sin que tengas que
 actualizar: van del lado del servidor y aparecen solas. Esas están anotadas con
 la fecha, sin número de versión.
 
+## 1.9.128 — 18 de noviembre de 2026
+
+🔔 **El aviso sigue al partido.** Si a un partido que seguís le cambian el día
+o la hora, su aviso se mueve con él y te llega a la hora nueva.
+
+🔄 **Ves cuándo se está actualizando.** Cuando volvés a la app después de un
+rato, en Hoy aparece una franja verde con «Actualizando resultados…» mientras
+llegan los datos nuevos. Se va sola cuando ya está todo al día.
+
+- Arreglos menores.
+
 ## 1.9.127 — 5 de noviembre de 2026
 
 📊 **Momentos del partido.** En la ficha, un gráfico muestra quién atacó en
