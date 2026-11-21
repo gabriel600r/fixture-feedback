@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Ligas Ao Vivo</h1>
-  <p><b>Resultados ao vivo, escalações, tabelas e chaves. 34 competições, tudo grátis.</b></p>
+  <p><b>Resultados ao vivo, escalações, tabelas e chaves. 40 competições, tudo grátis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" alt="Disponível no Google Play" height="76"/>
@@ -28,15 +28,15 @@
 
 Fixture Fútbol é o app para acompanhar as ligas e copas que importam para você, pelo celular, grátis e completo. Você escolhe suas competições e o app baixa só essas.
 
-### ⚽ 34 competições
+### ⚽ 40 competições
 
 **Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina, Supercopa Internacional
 **América do Sul** — Copa Libertadores, Copa Sudamericana
-**Brasil** — Brasileirão Série A, Copa do Brasil
-**Europa** — Champions League, Europa League e Conference League, com suas fases preliminares · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Coppa Italia, EFL Cup
+**Brasil** — Brasileirão Série A e Série B, Copa do Brasil
+**Europa** — Champions League, Europa League e Conference League, com suas fases preliminares · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Copa del Rey, FA Cup, Coppa Italia, EFL Cup
 **América do Norte** — MLS, Liga MX, Leagues Cup, Concacaf Champions
 **Seleções** — Nations League, amistosos de seleções
-**Resto da América do Sul** — Peru, Colômbia, Chile, Equador, Paraguai, Bolívia
+**Resto da América do Sul** — Peru, Colômbia, Chile, Equador, Paraguai, Bolívia, Uruguai · Copa AUF Uruguay, Copa de la Liga AUF
 
 Algumas estão fora de temporada: ficam carregadas e aparecem sozinhas quando voltam a jogar.
 
@@ -140,7 +140,7 @@ Confira se o app tem permissão de notificações e se o time está marcado com 
 Escolha seu país em Ajustes. Os canais cobrem 17 países por enquanto; se o seu não estiver, me conte em um ticket.
 
 **Falta um jogo / uma liga.**
-Conte qual em um [ticket](../../issues/new/choose). As 34 competições acima são as que existem hoje; vão sendo somadas conforme o que pedirem.
+Conte qual em um [ticket](../../issues/new/choose). As 40 competições acima são as que existem hoje; vão sendo somadas conforme o que pedirem.
 
 **Os dados são oficiais?**
 Vêm de um provedor de dados esportivos. Às vezes ele demora a confirmar um gol ou o nome do goleador; quando o provedor corrige, o app corrige sozinho.
