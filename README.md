@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Ligas En Vivo</h1>
-  <p><b>Resultados en vivo, formaciones, tablas y llaves. 40 competencias, todo gratis.</b></p>
+  <p><b>Resultados en vivo, formaciones, tablas y llaves. 41 competencias, todo gratis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Disponible en Google Play" height="76"/>
@@ -28,9 +28,9 @@
 
 Fixture Fútbol es la app para seguir las ligas y copas que te importan, desde el celular, gratis y completa. Elegís tus competencias y la app baja sólo esas.
 
-### ⚽ 40 competencias
+### ⚽ 41 competencias
 
-**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina, Supercopa Internacional
+**Argentina** — Liga Profesional, Primera Nacional, Torneo Federal A, Copa Argentina, Supercopa Argentina, Supercopa Internacional
 **Sudamérica** — Copa Libertadores, Copa Sudamericana
 **Brasil** — Brasileirão Série A y Série B, Copa do Brasil
 **Europa** — Champions League, Europa League y Conference League, con sus fases previas · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Copa del Rey, FA Cup, Coppa Italia, EFL Cup
@@ -140,7 +140,7 @@ Revisá que la app tenga permiso de notificaciones y que el equipo esté marcado
 Elegí tu país en Ajustes. Los canales están en 17 países por ahora; si el tuyo no está, contámelo en un ticket.
 
 **Falta un partido / una liga.**
-Contame cuál en un [ticket](../../issues/new/choose). Las 40 competencias de arriba son las que están hoy; se van sumando según lo que pidan.
+Contame cuál en un [ticket](../../issues/new/choose). Las 41 competencias de arriba son las que están hoy; se van sumando según lo que pidan.
 
 **¿Los datos son oficiales?**
 Vienen de un proveedor de datos deportivos. A veces tarda en confirmar un gol o el nombre del goleador; cuando el proveedor corrige, la app corrige sola.

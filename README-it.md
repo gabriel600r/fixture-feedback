@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Fixture Fútbol" width="140" style="border-radius: 28px;"/>
   <h1>Fixture Fútbol: Campionati In Diretta</h1>
-  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 40 competizioni, tutto gratis.</b></p>
+  <p><b>Risultati in diretta, formazioni, classifiche e tabelloni. 41 competizioni, tutto gratis.</b></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/it_badge_web_generic.png" alt="Disponibile su Google Play" height="76"/>
@@ -28,9 +28,9 @@
 
 Fixture Fútbol è l'app per seguire i campionati e le coppe che ti interessano, dal telefono, gratis e completa. Scegli le tue competizioni e l'app scarica solo quelle.
 
-### ⚽ 40 competizioni
+### ⚽ 41 competizioni
 
-**Argentina** — Liga Profesional, Primera Nacional, Copa Argentina, Supercopa Argentina, Supercopa Internacional
+**Argentina** — Liga Profesional, Primera Nacional, Torneo Federal A, Copa Argentina, Supercopa Argentina, Supercopa Internacional
 **Sudamerica** — Copa Libertadores, Copa Sudamericana
 **Brasile** — Brasileirão Série A e Série B, Copa do Brasil
 **Europa** — Champions League, Europa League e Conference League, con i loro turni preliminari · Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 · Coppa Italia, Copa del Rey, FA Cup, EFL Cup
@@ -140,7 +140,7 @@ Controlla che l'app abbia il permesso per le notifiche e che la squadra sia segn
 Scegli il tuo Paese nelle Impostazioni. I canali coprono 17 Paesi per ora; se il tuo non c'è, scrivimelo in una segnalazione.
 
 **Manca una partita / un campionato.**
-Dimmi quale in una [segnalazione](../../issues/new/choose). Le 40 competizioni qui sopra sono quelle disponibili oggi; se ne aggiungono altre in base a ciò che chiedete.
+Dimmi quale in una [segnalazione](../../issues/new/choose). Le 41 competizioni qui sopra sono quelle disponibili oggi; se ne aggiungono altre in base a ciò che chiedete.
 
 **I dati sono ufficiali?**
 Arrivano da un fornitore di dati sportivi. A volte ci mette un po' a confermare un gol o il nome del marcatore; quando il fornitore corregge, l'app si corregge da sola.
